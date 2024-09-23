@@ -1,6 +1,6 @@
 import csv
 
-input_file = 'kandidatiKurzeme.csv'
+input_file = 'kandidatiZemgale2.csv'
 
 def print_first_column(input_file):
     with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:

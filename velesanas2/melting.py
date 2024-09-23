@@ -1,7 +1,7 @@
 import csv
 
-input_file = 'kandidatiKurzeme2.csv'
-output_file = 'melted_kandidatiKurzeme.csv'
+input_file = 'kandidatiLatgale2.csv'
+output_file = 'melted_kandidatiLatgale.csv'
 
 def melt_csv(input_file, output_file):
     with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
@@ -31,7 +31,7 @@ def melt_csv(input_file, output_file):
                 minuses = row[i + 1]
                 
                 # Append the new row to the melted data
-                melted_data.append(["Kurzeme", struktura_value, party, name, number, pluses, minuses])
+                melted_data.append(["Latgale", struktura_value, party, name, number, pluses, minuses])
 
     # Write the melted data to the new CSV
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
