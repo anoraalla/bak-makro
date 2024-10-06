@@ -1,0 +1,1157 @@
+Saraksts,Partija,Numurs,Vards,Gender,Apgabals,Rangs
+1,"""Latvijas attīstībai""",1,Agris Akulovs,Male,Kurzeme,7
+1,"""Latvijas attīstībai""",2,Inese Albova,Female,Vidzeme,23
+1,"""Latvijas attīstībai""",3,Ineta Atgāze,Female,Riga,22
+1,"""Latvijas attīstībai""",4,Ģirts Auškāps,Male,Riga,7
+1,"""Latvijas attīstībai""",5,Andris Bačkurs,Male,Riga,4
+1,"""Latvijas attīstībai""",6,Zane Baltgaile,Female,Riga,6
+1,"""Latvijas attīstībai""",7,Erlends Baļķens,Male,Vidzeme,9
+1,"""Latvijas attīstībai""",8,Māris Beķers,Male,Zemgale,8
+1,"""Latvijas attīstībai""",9,Artūrs Bergholcs,Male,Vidzeme,10
+1,"""Latvijas attīstībai""",10,Ralfs Birķis,Male,Riga,5
+1,"""Latvijas attīstībai""",11,Ģirts Bite,Male,Riga,15
+1,"""Latvijas attīstībai""",12,Liene Blūma,Female,Riga,12
+1,"""Latvijas attīstībai""",13,Aleksejs Bočarovs,Male,Latgale,8
+1,"""Latvijas attīstībai""",14,Kaspars Bucis,Male,Kurzeme,5
+1,"""Latvijas attīstībai""",15,Artūrs Bušs,Male,Riga,13
+1,"""Latvijas attīstībai""",16,Liene Cakare,Female,Riga,2
+1,"""Latvijas attīstībai""",17,Edgars Ciblis,Male,Latgale,14
+1,"""Latvijas attīstībai""",18,Uldis Ciekurs,Male,Vidzeme,7
+1,"""Latvijas attīstībai""",19,Iveta Ciganova,Female,Kurzeme,4
+1,"""Latvijas attīstībai""",20,Viola Daniela,Female,Vidzeme,17
+1,"""Latvijas attīstībai""",21,Inese Drone,Female,Riga,10
+1,"""Latvijas attīstībai""",22,Pēteris Eimanis,Male,Vidzeme,19
+1,"""Latvijas attīstībai""",23,Naira Frijāre,Female,Zemgale,7
+1,"""Latvijas attīstībai""",24,Baiba Fromane,Female,Vidzeme,2
+1,"""Latvijas attīstībai""",25,Olga Geitus-Eitvina,Female,Latgale,3
+1,"""Latvijas attīstībai""",26,Izolde Glavāne,Female,Vidzeme,12
+1,"""Latvijas attīstībai""",27,Raivis Grandāns,Male,Zemgale,9
+1,"""Latvijas attīstībai""",28,Mārtiņš Grīnbergs,Male,Riga,25
+1,"""Latvijas attīstībai""",29,Arvīds Grīnfelds,Male,Vidzeme,6
+1,"""Latvijas attīstībai""",30,Ilmārs Gruduls,Male,Riga,28
+1,"""Latvijas attīstībai""",31,Jana Hermane,Female,Vidzeme,20
+1,"""Latvijas attīstībai""",32,Oskars Ikstens,Male,Latgale,5
+1,"""Latvijas attīstībai""",33,Emīls Jakrins,Male,Vidzeme,3
+1,"""Latvijas attīstībai""",34,Ineta Jansone,Female,Riga,11
+1,"""Latvijas attīstībai""",35,Jūlija Jaunrodziņa,Female,Latgale,6
+1,"""Latvijas attīstībai""",36,Edgars Jaunups,Male,Latgale,1
+1,"""Latvijas attīstībai""",37,Vladimirs Jefimovs,Male,Riga,24
+1,"""Latvijas attīstībai""",38,Mihails Juhņevičs,Male,Latgale,11
+1,"""Latvijas attīstībai""",39,Edgars Kalējs,Male,Riga,14
+1,"""Latvijas attīstībai""",40,Ainārs Kalniņš,Male,Riga,21
+1,"""Latvijas attīstībai""",41,Andris Kārkliņš,Male,Vidzeme,18
+1,"""Latvijas attīstībai""",42,Gunita Keiriša,Female,Vidzeme,21
+1,"""Latvijas attīstībai""",43,Dace Kizino,Female,Vidzeme,4
+1,"""Latvijas attīstībai""",44,Toms Krastenbergs,Male,Zemgale,13
+1,"""Latvijas attīstībai""",45,Ēriks Kumerdanks,Male,Riga,18
+1,"""Latvijas attīstībai""",46,Visvaldis Kursītis,Male,Latgale,9
+1,"""Latvijas attīstībai""",47,Kristaps Laipnieks,Male,Riga,19
+1,"""Latvijas attīstībai""",48,Inga Lamstere,Female,Vidzeme,11
+1,"""Latvijas attīstībai""",49,Vadims Lapins,Male,Vidzeme,26
+1,"""Latvijas attīstībai""",50,Ilze Latiša,Female,Latgale,7
+1,"""Latvijas attīstībai""",51,Viesturs Liepkalns,Male,Riga,26
+1,"""Latvijas attīstībai""",52,Miks Lormanis,Male,Kurzeme,6
+1,"""Latvijas attīstībai""",53,Santa Markauska,Female,Kurzeme,10
+1,"""Latvijas attīstībai""",54,Kristīne Mirzahanjana,Female,Riga,23
+1,"""Latvijas attīstībai""",55,Vladimirs Mišins,Male,Riga,32
+1,"""Latvijas attīstībai""",56,Zane Muceniece,Female,Zemgale,14
+1,"""Latvijas attīstībai""",57,Nelda Otvare,Female,Riga,29
+1,"""Latvijas attīstībai""",58,Arta Pirktiņa,Female,Riga,17
+1,"""Latvijas attīstībai""",59,Uldis Pirktiņš,Male,Kurzeme,3
+1,"""Latvijas attīstībai""",60,Rihards Pīks,Male,Kurzeme,1
+1,"""Latvijas attīstībai""",61,Artūrs Toms Plešs,Male,Zemgale,6
+1,"""Latvijas attīstībai""",62,Rolands Pogulis,Male,Riga,16
+1,"""Latvijas attīstībai""",63,Laila Pole,Female,Zemgale,4
+1,"""Latvijas attīstībai""",64,Iveta Preisa-Imaka,Female,Vidzeme,14
+1,"""Latvijas attīstībai""",65,Agris Punculs,Male,Latgale,2
+1,"""Latvijas attīstībai""",66,Juris Pūce,Male,Riga,1
+1,"""Latvijas attīstībai""",67,Andris Radelis,Male,Kurzeme,12
+1,"""Latvijas attīstībai""",68,Einars Repše,Male,Vidzeme,1
+1,"""Latvijas attīstībai""",69,Vladimirs Reskājs,Male,Zemgale,1
+1,"""Latvijas attīstībai""",70,Juris Rieksts-Riekstiņš,Male,Vidzeme,25
+1,"""Latvijas attīstībai""",71,Antra Roskoša,Female,Riga,8
+1,"""Latvijas attīstībai""",72,Mārtiņš Roze,Male,Riga,30
+1,"""Latvijas attīstībai""",73,Aija Rozena,Female,Vidzeme,16
+1,"""Latvijas attīstībai""",74,Dzintars Rozens,Male,Vidzeme,15
+1,"""Latvijas attīstībai""",75,Ilga Sitale,Female,Riga,31
+1,"""Latvijas attīstībai""",76,Renārs Smoļaks,Male,Riga,20
+1,"""Latvijas attīstībai""",77,Pauls Sondors,Male,Vidzeme,8
+1,"""Latvijas attīstībai""",78,Elita Sproģe,Female,Zemgale,3
+1,"""Latvijas attīstībai""",79,Ieva Strongina,Female,Vidzeme,24
+1,"""Latvijas attīstībai""",80,Eduards Sūniņš,Male,Vidzeme,5
+1,"""Latvijas attīstībai""",81,Agnija Šankova,Female,Kurzeme,9
+1,"""Latvijas attīstībai""",82,Juris Šmits,Male,Kurzeme,8
+1,"""Latvijas attīstībai""",83,Rūdolfs Šnepsts,Male,Kurzeme,11
+1,"""Latvijas attīstībai""",84,Toms Šubrovskis,Male,Latgale,10
+1,"""Latvijas attīstībai""",85,Zane Šūmakere,Female,Zemgale,5
+1,"""Latvijas attīstībai""",86,Raitis Tukāns,Male,Latgale,15
+1,"""Latvijas attīstībai""",87,Vilnis Tukums,Male,Kurzeme,13
+1,"""Latvijas attīstībai""",88,Edgars Upenieks,Male,Zemgale,12
+1,"""Latvijas attīstībai""",89,Mārtiņš Vadzis,Male,Zemgale,2
+1,"""Latvijas attīstībai""",90,Sabīne Vārtiņa,Female,Vidzeme,22
+1,"""Latvijas attīstībai""",91,Ksenija Vēze-Veise,Female,Zemgale,11
+1,"""Latvijas attīstībai""",92,Armands Vijups,Male,Vidzeme,13
+1,"""Latvijas attīstībai""",93,Aiva Vilcāne,Female,Kurzeme,2
+1,"""Latvijas attīstībai""",94,Rasma Zaharenko,Female,Latgale,4
+1,"""Latvijas attīstībai""",95,Kristaps Zaharkevičs,Male,Riga,27
+1,"""Latvijas attīstībai""",96,Iveta Zalpētere,Female,Riga,3
+1,"""Latvijas attīstībai""",97,Edgars Zandmanis,Male,Latgale,13
+1,"""Latvijas attīstībai""",98,Vilis Zilgalvis,Male,Latgale,12
+1,"""Latvijas attīstībai""",99,Armands Zivtiņš,Male,Riga,9
+1,"""Latvijas attīstībai""",100,Linda Žukovska,Female,Zemgale,10
+2,"""SUVERENITĀTE""",1,Ilvars Barkāns,Male,Latgale,9
+2,"""SUVERENITĀTE""",2,Māris Barkāns,Male,Riga,13
+2,"""SUVERENITĀTE""",3,Jānis Cīrulis,Male,Vidzeme,8
+2,"""SUVERENITĀTE""",4,Dmitrijs Dēliņš,Male,Kurzeme,5
+2,"""SUVERENITĀTE""",5,Ivans Feščenko,Male,Latgale,7
+2,"""SUVERENITĀTE""",6,Artis Freibergs,Male,Vidzeme,3
+2,"""SUVERENITĀTE""",7,Sergejs Golodņikovs,Male,Riga,12
+2,"""SUVERENITĀTE""",8,Dainis Grabovskis,Male,Zemgale,1
+2,"""SUVERENITĀTE""",9,Sigurds Graudiņš,Male,Zemgale,4
+2,"""SUVERENITĀTE""",10,Inga Gutberga,Female,Riga,4
+2,"""SUVERENITĀTE""",11,Aleksandrs Kačalkins,Male,Zemgale,3
+2,"""SUVERENITĀTE""",12,Jeļena Kantāne,Female,Riga,6
+2,"""SUVERENITĀTE""",13,Zane Lejniece-Puķe,Female,Vidzeme,6
+2,"""SUVERENITĀTE""",14,Raimonds Lejnieks-Puķe,Male,Zemgale,2
+2,"""SUVERENITĀTE""",15,Andrejs Nikoļskis,Male,Riga,8
+2,"""SUVERENITĀTE""",16,Andris Orols,Male,Riga,1
+2,"""SUVERENITĀTE""",17,Ingars Pētersons,Male,Latgale,2
+2,"""SUVERENITĀTE""",18,Edgars Poika,Male,Riga,9
+2,"""SUVERENITĀTE""",19,Aleksandrs Poika,Male,Vidzeme,4
+2,"""SUVERENITĀTE""",20,Tatjana Popova,Female,Kurzeme,4
+2,"""SUVERENITĀTE""",21,Artūrs Ratnieks,Male,Riga,3
+2,"""SUVERENITĀTE""",22,Žanna Redzoba,Female,Zemgale,5
+2,"""SUVERENITĀTE""",23,Kaspars Savickis,Male,Riga,11
+2,"""SUVERENITĀTE""",24,Uldis Sēne,Male,Kurzeme,3
+2,"""SUVERENITĀTE""",25,Artis Silavnieks,Male,Riga,10
+2,"""SUVERENITĀTE""",26,Aleksandra Siliniece,Female,Latgale,4
+2,"""SUVERENITĀTE""",27,Aivars Silinieks,Male,Riga,2
+2,"""SUVERENITĀTE""",28,Georgijs Sokolovskis,Male,Vidzeme,9
+2,"""SUVERENITĀTE""",29,Lita Sproģe,Female,Kurzeme,2
+2,"""SUVERENITĀTE""",30,Ēvalds Staris,Male,Latgale,6
+2,"""SUVERENITĀTE""",31,Maira Stumbre,Female,Riga,7
+2,"""SUVERENITĀTE""",32,Agris Sūna,Male,Vidzeme,2
+2,"""SUVERENITĀTE""",33,Armands Šenbergs,Male,Riga,5
+2,"""SUVERENITĀTE""",34,Kristīne Ševeļova,Female,Zemgale,6
+2,"""SUVERENITĀTE""",35,Jevgēnijs Šuļga,Male,Latgale,5
+2,"""SUVERENITĀTE""",36,Ēriks Trukšāns,Male,Latgale,8
+2,"""SUVERENITĀTE""",37,Dmitrijs Usins,Male,Latgale,1
+2,"""SUVERENITĀTE""",38,Kaspars Vainovskis,Male,Vidzeme,7
+2,"""SUVERENITĀTE""",39,Andrejs Vasiļjevs,Male,Latgale,3
+2,"""SUVERENITĀTE""",40,Guntra Vīksna,Female,Vidzeme,1
+2,"""SUVERENITĀTE""",41,Normunds Vīrs,Male,Kurzeme,1
+2,"""SUVERENITĀTE""",42,Andžejs Zdanovičs,Male,Riga,14
+2,"""SUVERENITĀTE""",43,Jūlija Ždanova,Female,Vidzeme,5
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",1,Anrijs Aumalis,Male,Riga,1
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",2,Dace Brimerberga,Female,Zemgale,1
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",3,Jeļena Gerasimova,Female,Riga,3
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",4,Ilva Ivaska,Female,Kurzeme,4
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",5,Ieva Kantmane,Female,Vidzeme,1
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",6,Baiba Kņūta,Female,Zemgale,2
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",7,Vika Koha,Female,Vidzeme,2
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",8,Marita Koha,Female,Zemgale,4
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",9,Taiga Lasmane,Female,Kurzeme,1
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",10,Kaspars Lazdāns,Male,Latgale,1
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",11,Anna Naumova,Female,Zemgale,3
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",12,Vizma Petrēvica,Female,Kurzeme,3
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",13,Baiba Stepanova,Female,Riga,4
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",14,Līga Šalma,Female,Latgale,2
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",15,Vilnis Šlars,Male,Riga,2
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",16,Dina Šulca,Female,Vidzeme,3
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",17,Vēsma Švinberga,Female,Kurzeme,5
+3,"""Brīvība. Brīvs no bailēm, naida un dusmām""",18,Antra Treide,Female,Kurzeme,2
+4,"Partija ""VIENOTĪBA""",1,Hosams Abu Meri,Male,Riga,17
+4,"Partija ""VIENOTĪBA""",2,Aldis Adamovičs,Male,Latgale,2
+4,"Partija ""VIENOTĪBA""",3,Arvils Ašeradens,Male,Vidzeme,8
+4,"Partija ""VIENOTĪBA""",4,Solvita Āboltiņa,Female,Kurzeme,1
+4,"Partija ""VIENOTĪBA""",5,Alis Balbārzdis,Male,Vidzeme,25
+4,"Partija ""VIENOTĪBA""",6,Edvīns Bartkevičs,Male,Vidzeme,10
+4,"Partija ""VIENOTĪBA""",7,Lita Beire,Female,Riga,21
+4,"Partija ""VIENOTĪBA""",8,Zigfrīds Berezovskis,Male,Riga,30
+4,"Partija ""VIENOTĪBA""",9,Aivars Bernāns,Male,Latgale,15
+4,"Partija ""VIENOTĪBA""",10,Iveta Blaua,Female,Vidzeme,19
+4,"Partija ""VIENOTĪBA""",11,Inesis Boķis,Male,Vidzeme,2
+4,"Partija ""VIENOTĪBA""",12,Aivars Broks,Male,Latgale,4
+4,"Partija ""VIENOTĪBA""",13,Anna Buša,Female,Riga,22
+4,"Partija ""VIENOTĪBA""",14,Krišjānis Bušs,Male,Zemgale,8
+4,"Partija ""VIENOTĪBA""",15,Guntis Būmeisters,Male,Kurzeme,13
+4,"Partija ""VIENOTĪBA""",16,Lolita Čigāne,Female,Riga,4
+4,"Partija ""VIENOTĪBA""",17,Raimonds Čudars,Male,Vidzeme,11
+4,"Partija ""VIENOTĪBA""",18,Guntis Čukurs,Male,Kurzeme,14
+4,"Partija ""VIENOTĪBA""",19,Ints Dālderis,Male,Kurzeme,2
+4,"Partija ""VIENOTĪBA""",20,Vjačeslavs Dombrovskis,Male,Zemgale,3
+4,"Partija ""VIENOTĪBA""",21,Vilnis Dragunas,Male,Kurzeme,11
+4,"Partija ""VIENOTĪBA""",22,Ina Druviete,Female,Vidzeme,6
+4,"Partija ""VIENOTĪBA""",23,Edgars Engīzers,Male,Riga,8
+4,"Partija ""VIENOTĪBA""",24,Kārlis Eņģelis,Male,Riga,16
+4,"Partija ""VIENOTĪBA""",25,Sarmīte Ēlerte,Female,Riga,10
+4,"Partija ""VIENOTĪBA""",26,Renārs Freibergs,Male,Vidzeme,22
+4,"Partija ""VIENOTĪBA""",27,Valdis Gavars,Male,Riga,13
+4,"Partija ""VIENOTĪBA""",28,Dmitrijs Golubevs,Male,Riga,31
+4,"Partija ""VIENOTĪBA""",29,Guntis Grūba,Male,Vidzeme,27
+4,"Partija ""VIENOTĪBA""",30,Artis Gustovskis,Male,Kurzeme,6
+4,"Partija ""VIENOTĪBA""",31,Astrīda Harju,Female,Vidzeme,17
+4,"Partija ""VIENOTĪBA""",32,Bierants Ignāts,Male,Riga,27
+4,"Partija ""VIENOTĪBA""",33,Edgars Ikstens,Male,Kurzeme,8
+4,"Partija ""VIENOTĪBA""",34,Kārlis Irbe,Male,Riga,33
+4,"Partija ""VIENOTĪBA""",35,Pauls Irbins,Male,Vidzeme,18
+4,"Partija ""VIENOTĪBA""",36,Jāzeps Janiševs,Male,Vidzeme,28
+4,"Partija ""VIENOTĪBA""",37,Nils Josts,Male,Riga,23
+4,"Partija ""VIENOTĪBA""",38,Andrejs Judins,Male,Riga,5
+4,"Partija ""VIENOTĪBA""",39,Jānis Junkurs,Male,Kurzeme,10
+4,"Partija ""VIENOTĪBA""",40,Roberts Jurķis,Male,Vidzeme,21
+4,"Partija ""VIENOTĪBA""",41,Inese Kalniņa,Female,Riga,19
+4,"Partija ""VIENOTĪBA""",42,Zanda Kalniņa-Lukaševica,Female,Vidzeme,4
+4,"Partija ""VIENOTĪBA""",43,Ojārs Ēriks Kalniņš,Male,Riga,2
+4,"Partija ""VIENOTĪBA""",44,Dace Kļaviņa,Female,Vidzeme,26
+4,"Partija ""VIENOTĪBA""",45,Evija Kolberga,Female,Riga,20
+4,"Partija ""VIENOTĪBA""",46,Uldis Kolužs,Male,Zemgale,12
+4,"Partija ""VIENOTĪBA""",47,Karina Korna,Female,Kurzeme,4
+4,"Partija ""VIENOTĪBA""",48,Rihards Kozlovskis,Male,Riga,6
+4,"Partija ""VIENOTĪBA""",49,Jānis Kupris,Male,Latgale,16
+4,"Partija ""VIENOTĪBA""",50,Janīna Kursīte,Female,Latgale,8
+4,"Partija ""VIENOTĪBA""",51,Sarmīte Ķikuste,Female,Latgale,7
+4,"Partija ""VIENOTĪBA""",52,Vilnis Ķirsis,Male,Vidzeme,12
+4,"Partija ""VIENOTĪBA""",53,Madars Lasmanis,Male,Zemgale,14
+4,"Partija ""VIENOTĪBA""",54,Ainars Latkovskis,Male,Vidzeme,3
+4,"Partija ""VIENOTĪBA""",55,Jānis Lazdāns,Male,Riga,24
+4,"Partija ""VIENOTĪBA""",56,Atis Lejiņš,Male,Zemgale,5
+4,"Partija ""VIENOTĪBA""",57,Liene Liepiņa,Female,Vidzeme,15
+4,"Partija ""VIENOTĪBA""",58,Gatis Liepiņš,Male,Riga,18
+4,"Partija ""VIENOTĪBA""",59,Krišjānis Liepiņš,Male,Riga,25
+4,"Partija ""VIENOTĪBA""",60,Inese Lībiņa-Egnere,Female,Kurzeme,3
+4,"Partija ""VIENOTĪBA""",61,Ainars Lodziņš,Male,Riga,34
+4,"Partija ""VIENOTĪBA""",62,Aleksejs Loskutovs,Male,Riga,3
+4,"Partija ""VIENOTĪBA""",63,Valērijs Makarevičs,Male,Latgale,10
+4,"Partija ""VIENOTĪBA""",64,Anrijs Matīss,Male,Latgale,1
+4,"Partija ""VIENOTĪBA""",65,Linda Medene,Female,Vidzeme,7
+4,"Partija ""VIENOTĪBA""",66,Vilnis Meškinis,Male,Vidzeme,24
+4,"Partija ""VIENOTĪBA""",67,Ināra Mukāne,Female,Latgale,14
+4,"Partija ""VIENOTĪBA""",68,Eleonora Obrumāne,Female,Latgale,18
+4,"Partija ""VIENOTĪBA""",69,Jānis Ozoliņš,Male,Zemgale,6
+4,"Partija ""VIENOTĪBA""",70,Guntis Pirvits,Male,Kurzeme,16
+4,"Partija ""VIENOTĪBA""",71,Anna Plauča,Female,Riga,29
+4,"Partija ""VIENOTĪBA""",72,Valdis Plaudis,Male,Kurzeme,15
+4,"Partija ""VIENOTĪBA""",73,Līvija Plavinska,Female,Latgale,5
+4,"Partija ""VIENOTĪBA""",74,Elīna Pļaviņa,Female,Zemgale,17
+4,"Partija ""VIENOTĪBA""",75,Laimdota Podze,Female,Riga,32
+4,"Partija ""VIENOTĪBA""",76,Inga Priede,Female,Zemgale,7
+4,"Partija ""VIENOTĪBA""",77,Olafs Pulks,Male,Riga,9
+4,"Partija ""VIENOTĪBA""",78,Gatis Puriņš,Male,Vidzeme,29
+4,"Partija ""VIENOTĪBA""",79,Sanita Putniņa,Female,Latgale,12
+4,"Partija ""VIENOTĪBA""",80,Renārs Putniņš,Male,Riga,12
+4,"Partija ""VIENOTĪBA""",81,Romualds Ražuks,Male,Vidzeme,14
+4,"Partija ""VIENOTĪBA""",82,Viesturs Reinfelds,Male,Zemgale,11
+4,"Partija ""VIENOTĪBA""",83,Jānis Reirs,Male,Zemgale,1
+4,"Partija ""VIENOTĪBA""",84,Edgars Rinkēvičs,Male,Riga,1
+4,"Partija ""VIENOTĪBA""",85,Armīns Robežnieks,Male,Kurzeme,7
+4,"Partija ""VIENOTĪBA""",86,Uģis Rotbergs,Male,Riga,11
+4,"Partija ""VIENOTĪBA""",87,Gita Rūtiņa,Female,Zemgale,13
+4,"Partija ""VIENOTĪBA""",88,Ansis Saliņš,Male,Zemgale,9
+4,"Partija ""VIENOTĪBA""",89,Evika Siliņa,Female,Zemgale,10
+4,"Partija ""VIENOTĪBA""",90,Aivars Siliņš,Male,Riga,26
+4,"Partija ""VIENOTĪBA""",91,Edvards Smiltēns,Male,Vidzeme,9
+4,"Partija ""VIENOTĪBA""",92,Vasilijs Smuļs,Male,Latgale,13
+4,"Partija ""VIENOTĪBA""",93,Kintija Sparāne,Female,Vidzeme,20
+4,"Partija ""VIENOTĪBA""",94,Veiko Spolītis,Male,Riga,14
+4,"Partija ""VIENOTĪBA""",95,Viktors Stikuts,Male,Latgale,6
+4,"Partija ""VIENOTĪBA""",96,Guntis Stirna,Male,Riga,35
+4,"Partija ""VIENOTĪBA""",97,Laimdota Straujuma,Female,Vidzeme,1
+4,"Partija ""VIENOTĪBA""",98,Kārlis Strēlis,Male,Riga,15
+4,"Partija ""VIENOTĪBA""",99,Ainārs Sviklis,Male,Zemgale,15
+4,"Partija ""VIENOTĪBA""",100,Kārlis Šadurskis,Male,Vidzeme,5
+4,"Partija ""VIENOTĪBA""",101,Arnis Šķēls,Male,Vidzeme,23
+4,"Partija ""VIENOTĪBA""",102,Juris Šulcs,Male,Zemgale,2
+4,"Partija ""VIENOTĪBA""",103,Vija Tirzmale,Female,Riga,28
+4,"Partija ""VIENOTĪBA""",104,Normunds Tropiņš,Male,Kurzeme,5
+4,"Partija ""VIENOTĪBA""",105,Andris Ulāns,Male,Zemgale,16
+4,"Partija ""VIENOTĪBA""",106,Maija Upeniece,Female,Latgale,9
+4,"Partija ""VIENOTĪBA""",107,Jānis Upenieks,Male,Vidzeme,16
+4,"Partija ""VIENOTĪBA""",108,Viktors Valainis,Male,Zemgale,4
+4,"Partija ""VIENOTĪBA""",109,Māris Vārna,Male,Kurzeme,9
+4,"Partija ""VIENOTĪBA""",110,Ilze Vergina,Female,Vidzeme,13
+4,"Partija ""VIENOTĪBA""",111,Juris Galerijs Vidiņš,Male,Latgale,11
+4,"Partija ""VIENOTĪBA""",112,Kaspars Vidiņš,Male,Latgale,17
+4,"Partija ""VIENOTĪBA""",113,Ilze Viņķele,Female,Riga,7
+4,"Partija ""VIENOTĪBA""",114,Dzintars Zaķis,Male,Latgale,3
+4,"Partija ""VIENOTĪBA""",115,Mikus Žagata,Male,Kurzeme,12
+5,"""POLITISKĀ PARTIJA IZAUGSME""",1,Dina Balode,Female,Kurzeme,3
+5,"""POLITISKĀ PARTIJA IZAUGSME""",2,Natālija Bērza,Female,Riga,9
+5,"""POLITISKĀ PARTIJA IZAUGSME""",3,Gaida Bērziņa,Female,Vidzeme,5
+5,"""POLITISKĀ PARTIJA IZAUGSME""",4,Aldis Bondars,Male,Vidzeme,3
+5,"""POLITISKĀ PARTIJA IZAUGSME""",5,Rinalds Brālis,Male,Riga,7
+5,"""POLITISKĀ PARTIJA IZAUGSME""",6,Artūrs Čačka,Male,Vidzeme,19
+5,"""POLITISKĀ PARTIJA IZAUGSME""",7,Ainis Dzalbs,Male,Zemgale,4
+5,"""POLITISKĀ PARTIJA IZAUGSME""",8,Velga Eklona,Female,Riga,4
+5,"""POLITISKĀ PARTIJA IZAUGSME""",9,Normunds Eliņš,Male,Vidzeme,18
+5,"""POLITISKĀ PARTIJA IZAUGSME""",10,Indra Garsele,Female,Vidzeme,4
+5,"""POLITISKĀ PARTIJA IZAUGSME""",11,Sandra Gintere,Female,Riga,2
+5,"""POLITISKĀ PARTIJA IZAUGSME""",12,Dace Jakovicka,Female,Kurzeme,2
+5,"""POLITISKĀ PARTIJA IZAUGSME""",13,Aija Jaunmuktāne,Female,Zemgale,1
+5,"""POLITISKĀ PARTIJA IZAUGSME""",14,Uldis Kasemirs,Male,Zemgale,2
+5,"""POLITISKĀ PARTIJA IZAUGSME""",15,Roberts Kuzņerevičs,Male,Latgale,1
+5,"""POLITISKĀ PARTIJA IZAUGSME""",16,Egita Ķeive,Female,Vidzeme,10
+5,"""POLITISKĀ PARTIJA IZAUGSME""",17,Gints Lapsa,Male,Vidzeme,17
+5,"""POLITISKĀ PARTIJA IZAUGSME""",18,Lelde Mangusa-Tutāne,Female,Vidzeme,2
+5,"""POLITISKĀ PARTIJA IZAUGSME""",19,Mudīte Meliņa,Female,Riga,8
+5,"""POLITISKĀ PARTIJA IZAUGSME""",20,Andis Onzuls,Male,Zemgale,3
+5,"""POLITISKĀ PARTIJA IZAUGSME""",21,Ilze Oša,Female,Vidzeme,16
+5,"""POLITISKĀ PARTIJA IZAUGSME""",22,Evita Paidere,Female,Vidzeme,13
+5,"""POLITISKĀ PARTIJA IZAUGSME""",23,Maija Radziņa,Female,Riga,1
+5,"""POLITISKĀ PARTIJA IZAUGSME""",24,Dairis Roģis,Male,Vidzeme,15
+5,"""POLITISKĀ PARTIJA IZAUGSME""",25,Mārcis Rudzītis,Male,Vidzeme,9
+5,"""POLITISKĀ PARTIJA IZAUGSME""",26,Ainārs Rudzītis,Male,Riga,3
+5,"""POLITISKĀ PARTIJA IZAUGSME""",27,Ingrida Sebre,Female,Vidzeme,14
+5,"""POLITISKĀ PARTIJA IZAUGSME""",28,Jānis Siliņš,Male,Vidzeme,7
+5,"""POLITISKĀ PARTIJA IZAUGSME""",29,Andris Skride,Male,Vidzeme,1
+5,"""POLITISKĀ PARTIJA IZAUGSME""",30,Silva Skride,Female,Latgale,3
+5,"""POLITISKĀ PARTIJA IZAUGSME""",31,Madara Stankuna,Female,Kurzeme,1
+5,"""POLITISKĀ PARTIJA IZAUGSME""",32,Artis Svaža,Male,Riga,5
+5,"""POLITISKĀ PARTIJA IZAUGSME""",33,Svetlana Anna Šauro,Female,Vidzeme,8
+5,"""POLITISKĀ PARTIJA IZAUGSME""",34,Agnis Šumakovs,Male,Vidzeme,11
+5,"""POLITISKĀ PARTIJA IZAUGSME""",35,Adriana Treikule,Female,Latgale,2
+5,"""POLITISKĀ PARTIJA IZAUGSME""",36,Vladimirs Trofimovs,Male,Riga,10
+5,"""POLITISKĀ PARTIJA IZAUGSME""",37,Jānis Viegliņš,Male,Riga,6
+5,"""POLITISKĀ PARTIJA IZAUGSME""",38,Raivis Zāģers,Male,Vidzeme,12
+5,"""POLITISKĀ PARTIJA IZAUGSME""",39,Juris Žilko,Male,Vidzeme,6
+6,"Partija ""Vienoti Latvijai""",1,Žaneta Abramsone,Female,Riga,16
+6,"Partija ""Vienoti Latvijai""",2,Andis Adats,Male,Vidzeme,5
+6,"Partija ""Vienoti Latvijai""",3,Vladimirs Afanasjevs,Male,Latgale,13
+6,"Partija ""Vienoti Latvijai""",4,Marija Aļbinoviča,Female,Riga,22
+6,"Partija ""Vienoti Latvijai""",5,Ainārs Arnītis,Male,Zemgale,8
+6,"Partija ""Vienoti Latvijai""",6,Andrejs Artjomovs,Male,Vidzeme,10
+6,"Partija ""Vienoti Latvijai""",7,Uvis Avens,Male,Vidzeme,20
+6,"Partija ""Vienoti Latvijai""",8,Gaida Avotiņa,Female,Zemgale,10
+6,"Partija ""Vienoti Latvijai""",9,Aleksandrs Beļevičs,Male,Riga,18
+6,"Partija ""Vienoti Latvijai""",10,Aleksandrs Bogdanovs,Male,Kurzeme,12
+6,"Partija ""Vienoti Latvijai""",11,Artis Brūvers,Male,Vidzeme,4
+6,"Partija ""Vienoti Latvijai""",12,Veronika Burova,Female,Riga,27
+6,"Partija ""Vienoti Latvijai""",13,Viktorija Čerenkova,Female,Riga,25
+6,"Partija ""Vienoti Latvijai""",14,Gunārs Dāboliņš,Male,Vidzeme,3
+6,"Partija ""Vienoti Latvijai""",15,Andris Deniņš,Male,Riga,5
+6,"Partija ""Vienoti Latvijai""",16,Vjačeslavs Dubovskis,Male,Latgale,6
+6,"Partija ""Vienoti Latvijai""",17,Ēriks Flaumanis,Male,Vidzeme,23
+6,"Partija ""Vienoti Latvijai""",18,Ģirts Freimanis,Male,Riga,33
+6,"Partija ""Vienoti Latvijai""",19,Guntis Gelpers,Male,Zemgale,4
+6,"Partija ""Vienoti Latvijai""",20,Pēteris Goba,Male,Zemgale,15
+6,"Partija ""Vienoti Latvijai""",21,Ivars Godmanis,Male,Vidzeme,1
+6,"Partija ""Vienoti Latvijai""",22,Jānis Grigaļūns,Male,Vidzeme,9
+6,"Partija ""Vienoti Latvijai""",23,Inese Grigoruka,Female,Kurzeme,5
+6,"Partija ""Vienoti Latvijai""",24,Lauris Grīns,Male,Riga,14
+6,"Partija ""Vienoti Latvijai""",25,Ivars Gulbis,Male,Riga,34
+6,"Partija ""Vienoti Latvijai""",26,Zane Ģierte,Female,Kurzeme,7
+6,"Partija ""Vienoti Latvijai""",27,Gundega Jaunbērziņa-Beitika,Female,Riga,13
+6,"Partija ""Vienoti Latvijai""",28,Vadims Jerošenko,Male,Riga,2
+6,"Partija ""Vienoti Latvijai""",29,Oskars Juhnevičs,Male,Latgale,2
+6,"Partija ""Vienoti Latvijai""",30,Karīna Juhņeviča,Female,Latgale,16
+6,"Partija ""Vienoti Latvijai""",31,Jānis Jukna,Male,Latgale,3
+6,"Partija ""Vienoti Latvijai""",32,Jānis Jurkāns,Male,Latgale,1
+6,"Partija ""Vienoti Latvijai""",33,Ivars Kalvišķis,Male,Vidzeme,2
+6,"Partija ""Vienoti Latvijai""",34,Aigars Kalvītis,Male,Zemgale,1
+6,"Partija ""Vienoti Latvijai""",35,Edmunds Kaševskis,Male,Riga,7
+6,"Partija ""Vienoti Latvijai""",36,Česlavs Kaševskis,Male,Riga,24
+6,"Partija ""Vienoti Latvijai""",37,Jānis Kazāks,Male,Kurzeme,4
+6,"Partija ""Vienoti Latvijai""",38,Edgars Kažoks,Male,Riga,19
+6,"Partija ""Vienoti Latvijai""",39,Tatjana Kokina,Female,Latgale,12
+6,"Partija ""Vienoti Latvijai""",40,Anita Kokoreviča,Female,Latgale,9
+6,"Partija ""Vienoti Latvijai""",41,Arnis Krauklis,Male,Zemgale,6
+6,"Partija ""Vienoti Latvijai""",42,Edijs Kriķis,Male,Vidzeme,15
+6,"Partija ""Vienoti Latvijai""",43,Evija Krilova,Female,Vidzeme,16
+6,"Partija ""Vienoti Latvijai""",44,Jeļena Kuranova,Female,Latgale,5
+6,"Partija ""Vienoti Latvijai""",45,Ivars Ķezbers,Male,Vidzeme,12
+6,"Partija ""Vienoti Latvijai""",46,Juris Lazdāns,Male,Zemgale,13
+6,"Partija ""Vienoti Latvijai""",47,Krists Leiškalns,Male,Vidzeme,26
+6,"Partija ""Vienoti Latvijai""",48,Ilona Lejniece,Female,Riga,28
+6,"Partija ""Vienoti Latvijai""",49,Ernests Lībietis,Male,Vidzeme,8
+6,"Partija ""Vienoti Latvijai""",50,Vahtangs Luašvili,Male,Latgale,15
+6,"Partija ""Vienoti Latvijai""",51,Ligita Maģiča,Female,Latgale,10
+6,"Partija ""Vienoti Latvijai""",52,Vadims Maļinovskis,Male,Riga,32
+6,"Partija ""Vienoti Latvijai""",53,Artūrs Marauskis,Male,Kurzeme,8
+6,"Partija ""Vienoti Latvijai""",54,Ainars Melders,Male,Vidzeme,7
+6,"Partija ""Vienoti Latvijai""",55,Ineta Muižniece,Female,Vidzeme,13
+6,"Partija ""Vienoti Latvijai""",56,Ilgvars Muzikants,Male,Vidzeme,22
+6,"Partija ""Vienoti Latvijai""",57,Andrejs Naglis,Male,Latgale,7
+6,"Partija ""Vienoti Latvijai""",58,Valērijs Osipovs,Male,Riga,29
+6,"Partija ""Vienoti Latvijai""",59,Viktors Ozerskis,Male,Riga,30
+6,"Partija ""Vienoti Latvijai""",60,Reinholds Pelše,Male,Vidzeme,25
+6,"Partija ""Vienoti Latvijai""",61,Udo Pērsis,Male,Zemgale,7
+6,"Partija ""Vienoti Latvijai""",62,Irina Pētersone,Female,Riga,6
+6,"Partija ""Vienoti Latvijai""",63,Mihails Pietkevičs,Male,Kurzeme,6
+6,"Partija ""Vienoti Latvijai""",64,Andris Pudāns,Male,Riga,11
+6,"Partija ""Vienoti Latvijai""",65,Irēna Putiķe,Female,Riga,21
+6,"Partija ""Vienoti Latvijai""",66,Jekaterina Pūrīte,Female,Kurzeme,11
+6,"Partija ""Vienoti Latvijai""",67,Iveta Raimo,Female,Latgale,14
+6,"Partija ""Vienoti Latvijai""",68,Zigurds Rancāns,Male,Zemgale,11
+6,"Partija ""Vienoti Latvijai""",69,Jānis Ratnieks,Male,Kurzeme,13
+6,"Partija ""Vienoti Latvijai""",70,Dzintra Mirdza Reisa,Female,Kurzeme,2
+6,"Partija ""Vienoti Latvijai""",71,Jānis Riežnieks,Male,Kurzeme,9
+6,"Partija ""Vienoti Latvijai""",72,Nauris Rolavs,Male,Kurzeme,3
+6,"Partija ""Vienoti Latvijai""",73,Agita Roziņa,Female,Riga,12
+6,"Partija ""Vienoti Latvijai""",74,Eduards Rubīns,Male,Kurzeme,14
+6,"Partija ""Vienoti Latvijai""",75,Imants Silavs,Male,Zemgale,9
+6,"Partija ""Vienoti Latvijai""",76,Lilita Siliņa,Female,Vidzeme,19
+6,"Partija ""Vienoti Latvijai""",77,Kaspars Sīlis,Male,Vidzeme,18
+6,"Partija ""Vienoti Latvijai""",78,Dace Smeltere,Female,Vidzeme,17
+6,"Partija ""Vienoti Latvijai""",79,Kristīne Sokolovska,Female,Vidzeme,11
+6,"Partija ""Vienoti Latvijai""",80,Gunārs Spradzenko,Male,Latgale,4
+6,"Partija ""Vienoti Latvijai""",81,Jevgenija Stalidzāne,Female,Riga,8
+6,"Partija ""Vienoti Latvijai""",82,Jānis Straume,Male,Kurzeme,1
+6,"Partija ""Vienoti Latvijai""",83,Andrejs Stremjanovs,Male,Latgale,11
+6,"Partija ""Vienoti Latvijai""",84,Lelde Sutena,Female,Zemgale,16
+6,"Partija ""Vienoti Latvijai""",85,Ainārs Šlesers,Male,Riga,1
+6,"Partija ""Vienoti Latvijai""",86,Jevdokija Šlivka,Female,Latgale,8
+6,"Partija ""Vienoti Latvijai""",87,Raimonds Šteinerts,Male,Zemgale,12
+6,"Partija ""Vienoti Latvijai""",88,Raivis Ūzuls,Male,Vidzeme,6
+6,"Partija ""Vienoti Latvijai""",89,Guntars Valants,Male,Vidzeme,21
+6,"Partija ""Vienoti Latvijai""",90,Aleksandrs Vasiļjevs,Male,Riga,23
+6,"Partija ""Vienoti Latvijai""",91,Oļegs Vasiļonoks,Male,Vidzeme,24
+6,"Partija ""Vienoti Latvijai""",92,Vinets Veldre,Male,Zemgale,3
+6,"Partija ""Vienoti Latvijai""",93,Raimonds Vilde,Male,Riga,9
+6,"Partija ""Vienoti Latvijai""",94,Andulis Vitte,Male,Kurzeme,10
+6,"Partija ""Vienoti Latvijai""",95,Daiga Vītola,Female,Vidzeme,14
+6,"Partija ""Vienoti Latvijai""",96,Dace Vītola,Female,Riga,10
+6,"Partija ""Vienoti Latvijai""",97,Tatjana Volkova,Female,Riga,4
+6,"Partija ""Vienoti Latvijai""",98,Vitālijs Zaharovs,Male,Riga,20
+6,"Partija ""Vienoti Latvijai""",99,Pāvels Zaicevs,Male,Riga,26
+6,"Partija ""Vienoti Latvijai""",100,Edgars Zalāns,Male,Zemgale,2
+6,"Partija ""Vienoti Latvijai""",101,Aigars Zariņš,Male,Riga,17
+6,"Partija ""Vienoti Latvijai""",102,Rihards Zariņš,Male,Riga,15
+6,"Partija ""Vienoti Latvijai""",103,Mareks Zeltiņš,Male,Riga,3
+6,"Partija ""Vienoti Latvijai""",104,Arvīds Zvirbulis,Male,Zemgale,5
+6,"Partija ""Vienoti Latvijai""",105,Aldis Žaludka,Male,Zemgale,14
+6,"Partija ""Vienoti Latvijai""",106,Nils Žuravļovs,Male,Riga,31
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",1,Māris Andžāns,Male,Riga,29
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",2,Marika Berga,Female,Vidzeme,24
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",3,Olga Berga,Female,Riga,22
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",4,Ilze Bertāne,Female,Kurzeme,13
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",5,Gaidis Bērziņš,Male,Kurzeme,1
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",6,Baiba Bicēna,Female,Riga,26
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",7,Raivis Blumfelds,Male,Kurzeme,15
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",8,Juris Bogdanovičs,Male,Riga,12
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",9,Ilona Bremze,Female,Zemgale,12
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",10,Uldis Verners Brūns,Male,Riga,10
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,Ivo Brūvers,Male,Latgale,11
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",12,Andris Buiķis,Male,Zemgale,8
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",13,Aldis Bukovskis,Male,Riga,32
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",14,Artūrs Butāns,Male,Kurzeme,14
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",15,Einārs Cilinskis,Male,Riga,3
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",16,Ieva Cīrule,Female,Zemgale,14
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",17,Juris Cīrulis,Male,Zemgale,4
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",18,Jānis Dainis,Male,Vidzeme,12
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",19,Jānis Dombrava,Male,Vidzeme,2
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",20,Kārlis Dombrovskis,Male,Riga,19
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",21,Normunds Duļevskis,Male,Vidzeme,16
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",22,Raivis Dzintars,Male,Vidzeme,1
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",23,Ginta Eglīte,Female,Vidzeme,19
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",24,Laimonis Frīdbergs,Male,Latgale,13
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",25,Inese Gaumane,Female,Vidzeme,25
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",26,Irīna Gedertsone,Female,Vidzeme,20
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",27,Ilmārs Geiba,Male,Latgale,15
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",28,Ainārs Grikmanis,Male,Vidzeme,14
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",29,Gunārs Grīnbergs,Male,Vidzeme,13
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",30,Rūdolfs Grīnblats,Male,Riga,33
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",31,Brigita Gulbe,Female,Latgale,17
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",32,Ieva Holma,Female,Riga,16
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",33,Jānis Iesalnieks,Male,Kurzeme,2
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",34,Gunārs Indārs,Male,Riga,34
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",35,Ilze Indriksone,Female,Kurzeme,16
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",36,Ilvija Jakovina,Female,Vidzeme,18
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",37,Edgars Jansons,Male,Riga,25
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",38,Ritvars Jansons,Male,Riga,14
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",39,Eduards Jurķelis,Male,Riga,27
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",40,Bruno Jurševics,Male,Kurzeme,6
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",41,Daiga Kalnbērziņa,Female,Vidzeme,22
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",42,Imārs Kiršbaums,Male,Riga,21
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",43,Aleksandrs Kiršteins,Male,Riga,6
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",44,Jurģis Klotiņš,Male,Riga,20
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",45,Ingus Kļaviņš,Male,Riga,8
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",46,Rihards Kols,Male,Vidzeme,4
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",47,Aleksandrs Korņilovs,Male,Latgale,9
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",48,Kārlis Krēsliņš,Male,Vidzeme,9
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",49,Uģis Krūmiņš,Male,Riga,35
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",50,Jānis Atis Krūmiņš,Male,Riga,18
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",51,Dzintars Kudums,Male,Kurzeme,3
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",52,Janīna Kursīte-Pakule,Female,Kurzeme,7
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",53,Antons Kursītis,Male,Latgale,3
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",54,Aina Ķīse,Female,Zemgale,16
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",55,Inese Laizāne,Female,Latgale,1
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",56,Ģirts Lapiņš,Male,Riga,11
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",57,Ilmārs Latkovskis,Male,Riga,4
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",58,Santa Laurinoviča,Female,Kurzeme,12
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",59,Andris Lācis,Male,Riga,15
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",60,Gunta Liepiņa,Female,Vidzeme,8
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",61,Dainis Locis,Male,Riga,7
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",62,Irīna Mackus,Female,Vidzeme,28
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",63,Jānis Mājenieks,Male,Vidzeme,15
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",64,Dace Melbārde,Female,Riga,1
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",65,Aija Mežale,Female,Latgale,7
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",66,Dzintars Mozgis,Male,Latgale,4
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",67,Ināra Mūrniece,Female,Vidzeme,3
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",68,Jānis Mūrnieks,Male,Latgale,8
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",69,Inita Nagņibeda,Female,Zemgale,11
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",70,Romāns Naudiņš,Male,Vidzeme,5
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",71,Ivars Nececkis,Male,Riga,31
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",72,Aivars Okmanis,Male,Zemgale,5
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",73,Ieva Ozola,Female,Riga,17
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",74,Ivo Ozols,Male,Riga,28
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",75,Imants Parādnieks,Male,Zemgale,2
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",76,Andris Pastars,Male,Zemgale,15
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",77,Andris Pārups,Male,Riga,9
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",78,Vineta Poriņa,Female,Zemgale,3
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",79,Ieva Preimane,Female,Vidzeme,27
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",80,Arnis Puksts,Male,Riga,24
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",81,Nauris Puntulis,Male,Zemgale,6
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",82,Dzintars Rasnačs,Male,Riga,2
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",83,Anita Ratkeviča,Female,Latgale,16
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",84,Jānis Ratkevičs,Male,Latgale,5
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",85,Edvards Ratnieks,Male,Zemgale,7
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",86,Jānis Rāfelds,Male,Vidzeme,21
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",87,Agris Riba,Male,Zemgale,13
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",88,Dainis Rijkuris,Male,Zemgale,10
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",89,Guntra Riņķe,Female,Kurzeme,9
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",90,Inguna Rībena,Female,Riga,5
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",91,Gunārs Rusiņš,Male,Vidzeme,7
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",92,Kristīna Rūtenberga,Female,Kurzeme,8
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",93,Gundars Sebris,Male,Kurzeme,4
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",94,Aivars Sjademe,Male,Vidzeme,23
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",95,Kristīne Skrīvere,Female,Kurzeme,11
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",96,Kārlis Skujiņš,Male,Vidzeme,26
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",97,Salvis Smukais,Male,Vidzeme,11
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",98,Ludmila Sočņeva,Female,Riga,23
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",99,Gatis Sprūds,Male,Vidzeme,6
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",100,Dainis Svarups,Male,Latgale,14
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",101,Roberts Šlegelmilhs,Male,Zemgale,9
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",102,Edvīns Šnore,Male,Zemgale,1
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",103,Ērika Teirumnieka,Female,Latgale,2
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",104,Jānis Vahers,Male,Latgale,6
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",105,Evija Vaikina,Female,Latgale,12
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",106,Daina Vanaga,Female,Kurzeme,5
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",107,Gundars Važa,Male,Zemgale,17
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",108,Krista Veita,Female,Kurzeme,10
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",109,Artis Vidžups,Male,Riga,30
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",110,Ginta Vilcāne,Female,Latgale,10
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",111,Andris Vilks,Male,Riga,13
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",112,Marika Zeimule,Female,Vidzeme,10
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",113,Raivis Zeltīts,Male,Vidzeme,29
+7,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",114,Jana Zilkalne,Female,Vidzeme,17
+8,Latvijas Reģionu Apvienība,1,Edgars Abrams,Male,Riga,10
+8,Latvijas Reģionu Apvienība,2,Armands Agrums,Male,Riga,5
+8,Latvijas Reģionu Apvienība,3,Aldis Alliks,Male,Riga,17
+8,Latvijas Reģionu Apvienība,4,Ingrīda Amantova,Female,Vidzeme,8
+8,Latvijas Reģionu Apvienība,5,Liene Anševica,Female,Kurzeme,13
+8,Latvijas Reģionu Apvienība,6,Juris Apinis,Male,Vidzeme,27
+8,Latvijas Reģionu Apvienība,7,Jānis Ābele,Male,Zemgale,8
+8,Latvijas Reģionu Apvienība,8,Jānis Ābols,Male,Riga,12
+8,Latvijas Reģionu Apvienība,9,Juris Baldiņš,Male,Riga,31
+8,Latvijas Reģionu Apvienība,10,Ilona Balode,Female,Vidzeme,18
+8,Latvijas Reģionu Apvienība,11,Guntis Bērziņš,Male,Riga,14
+8,Latvijas Reģionu Apvienība,12,Aivis Biķernieks,Male,Zemgale,16
+8,Latvijas Reģionu Apvienība,13,Guntars Bilsēns,Male,Vidzeme,7
+8,Latvijas Reģionu Apvienība,14,Inita Bišofa,Female,Kurzeme,2
+8,Latvijas Reģionu Apvienība,15,Inga Bite,Female,Riga,3
+8,Latvijas Reģionu Apvienība,16,Kārlis Boitmanis,Male,Riga,22
+8,Latvijas Reģionu Apvienība,17,Mārtiņš Bondars,Male,Vidzeme,1
+8,Latvijas Reģionu Apvienība,18,Ivars Brīvers,Male,Riga,15
+8,Latvijas Reģionu Apvienība,19,Inese Caunīte,Female,Zemgale,13
+8,Latvijas Reģionu Apvienība,20,Velta Cimdiņa,Female,Riga,24
+8,Latvijas Reģionu Apvienība,21,Gunda Cīrule,Female,Zemgale,12
+8,Latvijas Reģionu Apvienība,22,Inese Čača,Female,Riga,26
+8,Latvijas Reģionu Apvienība,23,Aleksandrs Dementjevs,Male,Riga,7
+8,Latvijas Reģionu Apvienība,24,Jānis Dinevičs,Male,Latgale,3
+8,Latvijas Reģionu Apvienība,25,Jānis Dinne,Male,Riga,18
+8,Latvijas Reģionu Apvienība,26,Inga Drele,Female,Latgale,18
+8,Latvijas Reģionu Apvienība,27,Juris Dzelme,Male,Riga,33
+8,Latvijas Reģionu Apvienība,28,Aivars Fomins,Male,Vidzeme,6
+8,Latvijas Reģionu Apvienība,29,Vilis Freimanis,Male,Zemgale,15
+8,Latvijas Reģionu Apvienība,30,Gunta Gasūna,Female,Vidzeme,25
+8,Latvijas Reģionu Apvienība,31,Guntis Gladkins,Male,Vidzeme,2
+8,Latvijas Reģionu Apvienība,32,Leonārija Gudakovska,Female,Zemgale,5
+8,Latvijas Reģionu Apvienība,33,Ingars Gusāns,Male,Latgale,7
+8,Latvijas Reģionu Apvienība,34,Ingemars Harmsens,Male,Kurzeme,7
+8,Latvijas Reģionu Apvienība,35,Aidis Herings,Male,Kurzeme,10
+8,Latvijas Reģionu Apvienība,36,Valdis Holbergs,Male,Riga,21
+8,Latvijas Reģionu Apvienība,37,Gunārs Igaunis,Male,Latgale,17
+8,Latvijas Reģionu Apvienība,38,Sarmīte Janfelde,Female,Riga,23
+8,Latvijas Reģionu Apvienība,39,Līvija Jankovska,Female,Latgale,4
+8,Latvijas Reģionu Apvienība,40,Gundars Jegors,Male,Riga,32
+8,Latvijas Reģionu Apvienība,41,Jānis Jurģelis,Male,Vidzeme,26
+8,Latvijas Reģionu Apvienība,42,Arturs Kaimiņš,Male,Riga,35
+8,Latvijas Reģionu Apvienība,43,Raimonds Kalniņš,Male,Kurzeme,4
+8,Latvijas Reģionu Apvienība,44,Imants Keišs,Male,Riga,29
+8,Latvijas Reģionu Apvienība,45,Rolands Keišs,Male,Latgale,9
+8,Latvijas Reģionu Apvienība,46,Arvīds Kinstlers,Male,Kurzeme,15
+8,Latvijas Reģionu Apvienība,47,Nellija Kleinberga,Female,Kurzeme,1
+8,Latvijas Reģionu Apvienība,48,Sergejs Kodors,Male,Latgale,15
+8,Latvijas Reģionu Apvienība,49,Anita Kokarēviča,Female,Riga,27
+8,Latvijas Reģionu Apvienība,50,Margarita Krauča,Female,Riga,9
+8,Latvijas Reģionu Apvienība,51,Zigrīda Krauze,Female,Kurzeme,16
+8,Latvijas Reģionu Apvienība,52,Varis Krūmiņš,Male,Vidzeme,29
+8,Latvijas Reģionu Apvienība,53,Augusts Kūravs,Male,Riga,13
+8,Latvijas Reģionu Apvienība,54,Aldis Lazda,Male,Zemgale,10
+8,Latvijas Reģionu Apvienība,55,Dzintars Legzdiņš,Male,Kurzeme,9
+8,Latvijas Reģionu Apvienība,56,Arvis Leinbergs,Male,Kurzeme,11
+8,Latvijas Reģionu Apvienība,57,Ilgonis Leišavnieks,Male,Zemgale,3
+8,Latvijas Reģionu Apvienība,58,Inta Lemešonoka,Female,Vidzeme,20
+8,Latvijas Reģionu Apvienība,59,Juris Levics,Male,Kurzeme,14
+8,Latvijas Reģionu Apvienība,60,Dainis Liepiņš,Male,Zemgale,1
+8,Latvijas Reģionu Apvienība,61,Andris Liepiņš,Male,Latgale,16
+8,Latvijas Reģionu Apvienība,62,Jānis Liepiņš,Male,Vidzeme,23
+8,Latvijas Reģionu Apvienība,63,Andris Lubiņš,Male,Riga,16
+8,Latvijas Reģionu Apvienība,64,Benita Malatkovska,Female,Riga,25
+8,Latvijas Reģionu Apvienība,65,Jānis Mazitāns,Male,Vidzeme,13
+8,Latvijas Reģionu Apvienība,66,Normunds Mazūrs,Male,Vidzeme,9
+8,Latvijas Reģionu Apvienība,67,Rihards Melgailis,Male,Zemgale,2
+8,Latvijas Reģionu Apvienība,68,Inese Navra,Female,Vidzeme,24
+8,Latvijas Reģionu Apvienība,69,Aleksandrs Novickis,Male,Zemgale,11
+8,Latvijas Reģionu Apvienība,70,Marita Oliņa,Female,Zemgale,14
+8,Latvijas Reģionu Apvienība,71,Ieva Margarita Ozola,Female,Riga,20
+8,Latvijas Reģionu Apvienība,72,Ilga Ozoliņa,Female,Vidzeme,12
+8,Latvijas Reģionu Apvienība,73,Linda Ozoliņa,Female,Vidzeme,21
+8,Latvijas Reģionu Apvienība,74,Aigars Ozoliņš,Male,Riga,19
+8,Latvijas Reģionu Apvienība,75,Lauris Pastars,Male,Latgale,12
+8,Latvijas Reģionu Apvienība,76,Rūdolfs Plēpis,Male,Riga,28
+8,Latvijas Reģionu Apvienība,77,Māris Pļaviņš,Male,Vidzeme,10
+8,Latvijas Reģionu Apvienība,78,Karina Putniņa,Female,Vidzeme,3
+8,Latvijas Reģionu Apvienība,79,Guntis Rasims,Male,Latgale,10
+8,Latvijas Reģionu Apvienība,80,Aija Raudiņa,Female,Kurzeme,6
+8,Latvijas Reģionu Apvienība,81,Mareks Raups,Male,Riga,8
+8,Latvijas Reģionu Apvienība,82,Dagnis Reinsons,Male,Riga,34
+8,Latvijas Reģionu Apvienība,83,Kārlis Rimša,Male,Zemgale,6
+8,Latvijas Reģionu Apvienība,84,Aivars Ritenieks,Male,Zemgale,17
+8,Latvijas Reģionu Apvienība,85,Margots Rotbergs,Male,Riga,11
+8,Latvijas Reģionu Apvienība,86,Gints Rožkalns,Male,Vidzeme,16
+8,Latvijas Reģionu Apvienība,87,Andris Rubins,Male,Riga,6
+8,Latvijas Reģionu Apvienība,88,Silvestrs Rubins,Male,Vidzeme,11
+8,Latvijas Reģionu Apvienība,89,Jānis Ruks,Male,Vidzeme,5
+8,Latvijas Reģionu Apvienība,90,Vladimirs Samohins,Male,Zemgale,7
+8,Latvijas Reģionu Apvienība,91,Jānis Sergejenko,Male,Kurzeme,12
+8,Latvijas Reģionu Apvienība,92,Astrīda Skrinda,Female,Latgale,14
+8,Latvijas Reģionu Apvienība,93,Aija Spriņķe,Female,Zemgale,9
+8,Latvijas Reģionu Apvienība,94,Līga Stendze,Female,Kurzeme,8
+8,Latvijas Reģionu Apvienība,95,Mārtiņš Šics,Male,Riga,1
+8,Latvijas Reģionu Apvienība,96,Artūrs Štagars,Male,Latgale,13
+8,Latvijas Reģionu Apvienība,97,Aivars Timofejevs,Male,Riga,4
+8,Latvijas Reģionu Apvienība,98,Māris Trankalis,Male,Vidzeme,4
+8,Latvijas Reģionu Apvienība,99,Mečislavs Truskovskis,Male,Latgale,6
+8,Latvijas Reģionu Apvienība,100,Sigita Upmale,Female,Vidzeme,17
+8,Latvijas Reģionu Apvienība,101,Ingūna Urtāne,Female,Vidzeme,22
+8,Latvijas Reģionu Apvienība,102,Inga Vanaga,Female,Zemgale,4
+8,Latvijas Reģionu Apvienība,103,Natālija Vecgaile,Female,Vidzeme,15
+8,Latvijas Reģionu Apvienība,104,Ilga Vecziediņa,Female,Vidzeme,14
+8,Latvijas Reģionu Apvienība,105,Normunds Vilnītis,Male,Kurzeme,5
+8,Latvijas Reģionu Apvienība,106,Juris Viļums,Male,Latgale,1
+8,Latvijas Reģionu Apvienība,107,Evita Vinceviča,Female,Vidzeme,19
+8,Latvijas Reģionu Apvienība,108,Margarita Visocka,Female,Riga,30
+8,Latvijas Reģionu Apvienība,109,Juris Vorkalis,Male,Latgale,8
+8,Latvijas Reģionu Apvienība,110,Sandra Zaiceva,Female,Vidzeme,28
+8,Latvijas Reģionu Apvienība,111,Arnis Zekunde,Male,Kurzeme,3
+8,Latvijas Reģionu Apvienība,112,Marija Zeltiņa,Female,Latgale,11
+8,Latvijas Reģionu Apvienība,113,Māra Viktorija Zilgalve,Female,Riga,2
+8,Latvijas Reģionu Apvienība,114,Oskars Zuģickis,Male,Latgale,5
+8,Latvijas Reģionu Apvienība,115,Osvalds Zvejsalnieks,Male,Latgale,2
+9,Jaunā konservatīvā partija,1,Pēteris Aglonietis,Male,Kurzeme,9
+9,Jaunā konservatīvā partija,2,Mārtiņš Aizpurietis,Male,Vidzeme,18
+9,Jaunā konservatīvā partija,3,Īra Alksne,Female,Latgale,7
+9,Jaunā konservatīvā partija,4,Oskars Apaļais,Male,Zemgale,12
+9,Jaunā konservatīvā partija,5,Gundars Ābers,Male,Riga,17
+9,Jaunā konservatīvā partija,6,Gundars Ābols,Male,Vidzeme,1
+9,Jaunā konservatīvā partija,7,Aldis Baltalksnis,Male,Riga,23
+9,Jaunā konservatīvā partija,8,Ainars Bašķis,Male,Vidzeme,12
+9,Jaunā konservatīvā partija,9,Vilis Bārtulis,Male,Kurzeme,8
+9,Jaunā konservatīvā partija,10,Mārcis Bergs,Male,Vidzeme,21
+9,Jaunā konservatīvā partija,11,Vitālijs Birjukovs,Male,Vidzeme,10
+9,Jaunā konservatīvā partija,12,Kristaps Bogdanovičs,Male,Riga,32
+9,Jaunā konservatīvā partija,13,Toms Bordāns,Male,Vidzeme,26
+9,Jaunā konservatīvā partija,14,Jānis Bordāns,Male,Riga,1
+9,Jaunā konservatīvā partija,15,Jānis Brokāns,Male,Zemgale,5
+9,Jaunā konservatīvā partija,16,Krišjānis Brūvelis,Male,Riga,28
+9,Jaunā konservatīvā partija,17,Raitis Bukovskis,Male,Latgale,5
+9,Jaunā konservatīvā partija,18,Santa Cabule,Female,Latgale,9
+9,Jaunā konservatīvā partija,19,Una Celmiņa,Female,Kurzeme,6
+9,Jaunā konservatīvā partija,20,Inga Čekša-Ratniece,Female,Latgale,3
+9,Jaunā konservatīvā partija,21,Gunta Dombrovska,Female,Riga,25
+9,Jaunā konservatīvā partija,22,Eva Eglāja-Kristsone,Female,Riga,7
+9,Jaunā konservatīvā partija,23,Zigurds Eglītis,Male,Riga,14
+9,Jaunā konservatīvā partija,24,Jolanta Eihentāle,Female,Riga,3
+9,Jaunā konservatīvā partija,25,Normunds Eihentāls,Male,Zemgale,13
+9,Jaunā konservatīvā partija,26,Romeks Fabjančiks,Male,Zemgale,8
+9,Jaunā konservatīvā partija,27,Astra Feldmane,Female,Riga,18
+9,Jaunā konservatīvā partija,28,Krišjānis Feldmans,Male,Kurzeme,1
+9,Jaunā konservatīvā partija,29,Inga Gluzda,Female,Kurzeme,3
+9,Jaunā konservatīvā partija,30,Austris Grasis,Male,Riga,2
+9,Jaunā konservatīvā partija,31,Māris Grīnbergs,Male,Riga,5
+9,Jaunā konservatīvā partija,32,Inguna Gustava,Female,Vidzeme,9
+9,Jaunā konservatīvā partija,33,Vitauts Ivonausks,Male,Riga,10
+9,Jaunā konservatīvā partija,34,Normunds Janelsiņš,Male,Zemgale,14
+9,Jaunā konservatīvā partija,35,Ivars Jasmanis,Male,Latgale,12
+9,Jaunā konservatīvā partija,36,Gundega Jēkabsone,Female,Zemgale,9
+9,Jaunā konservatīvā partija,37,Arnis Kadiķis,Male,Kurzeme,13
+9,Jaunā konservatīvā partija,38,Zigurds Kalējs,Male,Zemgale,7
+9,Jaunā konservatīvā partija,39,Ieva Kalniņa,Female,Riga,20
+9,Jaunā konservatīvā partija,40,Rūdolfs Kalvāns,Male,Riga,6
+9,Jaunā konservatīvā partija,41,Matīss Kempe,Male,Riga,27
+9,Jaunā konservatīvā partija,42,Vineta Kiršteine,Female,Latgale,10
+9,Jaunā konservatīvā partija,43,Jānis Kopštāls,Male,Vidzeme,20
+9,Jaunā konservatīvā partija,44,Pēteris Krampītis,Male,Zemgale,10
+9,Jaunā konservatīvā partija,45,Ingemārs Krūmiņš,Male,Vidzeme,22
+9,Jaunā konservatīvā partija,46,Inguss Kudiņš,Male,Riga,8
+9,Jaunā konservatīvā partija,47,Roberts Lakučs,Male,Riga,15
+9,Jaunā konservatīvā partija,48,Guntis Leja,Male,Riga,29
+9,Jaunā konservatīvā partija,49,Aldis Lieljuksis,Male,Riga,4
+9,Jaunā konservatīvā partija,50,Diāna Lūse,Female,Kurzeme,10
+9,Jaunā konservatīvā partija,51,Eva Mārtuža,Female,Latgale,1
+9,Jaunā konservatīvā partija,52,Jānis Mārtužs,Male,Latgale,6
+9,Jaunā konservatīvā partija,53,Sanita Megere-Klevinska,Female,Vidzeme,3
+9,Jaunā konservatīvā partija,54,Valdis Meijers,Male,Vidzeme,15
+9,Jaunā konservatīvā partija,55,Jadviga Neilande,Female,Vidzeme,11
+9,Jaunā konservatīvā partija,56,Dmitrijs Nikolajevs,Male,Zemgale,6
+9,Jaunā konservatīvā partija,57,Aivars Ontužāns,Male,Vidzeme,19
+9,Jaunā konservatīvā partija,58,Darja Orele,Female,Latgale,8
+9,Jaunā konservatīvā partija,59,Dārta Ose,Female,Vidzeme,24
+9,Jaunā konservatīvā partija,60,Indra Ozoliņa,Female,Latgale,11
+9,Jaunā konservatīvā partija,61,Jānis Ozoliņš,Male,Vidzeme,16
+9,Jaunā konservatīvā partija,62,Juris Pavītols,Male,Kurzeme,5
+9,Jaunā konservatīvā partija,63,Ūve Perlbahs,Female,Riga,31
+9,Jaunā konservatīvā partija,64,Kalvis Plismanis,Male,Riga,24
+9,Jaunā konservatīvā partija,65,Astrīda Podziņa,Female,Vidzeme,17
+9,Jaunā konservatīvā partija,66,Laura Rancāne,Female,Riga,16
+9,Jaunā konservatīvā partija,67,Andris Riekstiņš,Male,Vidzeme,13
+9,Jaunā konservatīvā partija,68,Ansis Roderts,Male,Kurzeme,7
+9,Jaunā konservatīvā partija,69,Dainis Rozenfelds,Male,Zemgale,4
+9,Jaunā konservatīvā partija,70,Kristaps Rūde,Male,Vidzeme,4
+9,Jaunā konservatīvā partija,71,Kristīne Saleniece,Female,Riga,11
+9,Jaunā konservatīvā partija,72,Raitis Sijāts,Male,Vidzeme,2
+9,Jaunā konservatīvā partija,73,Jānis Siliņš,Male,Vidzeme,5
+9,Jaunā konservatīvā partija,74,Dainis Skrūzmanis,Male,Latgale,4
+9,Jaunā konservatīvā partija,75,Andris Skuja,Male,Vidzeme,7
+9,Jaunā konservatīvā partija,76,Elīna Spiča,Female,Zemgale,11
+9,Jaunā konservatīvā partija,77,Dāvis Stalts,Male,Kurzeme,2
+9,Jaunā konservatīvā partija,78,Gundars Strazdiņš,Male,Riga,21
+9,Jaunā konservatīvā partija,79,Aigars Sudmalis,Male,Kurzeme,12
+9,Jaunā konservatīvā partija,80,Zemlita Šīre,Female,Vidzeme,14
+9,Jaunā konservatīvā partija,81,Juris Tolpežņikovs,Male,Zemgale,3
+9,Jaunā konservatīvā partija,82,Jānis Tomels,Male,Zemgale,1
+9,Jaunā konservatīvā partija,83,Jānis Uha,Male,Riga,30
+9,Jaunā konservatīvā partija,84,Aldis Upmalis,Male,Riga,12
+9,Jaunā konservatīvā partija,85,Arvis Urbāns,Male,Vidzeme,25
+9,Jaunā konservatīvā partija,86,Guntars Vaivars,Male,Kurzeme,4
+9,Jaunā konservatīvā partija,87,Līva Veita,Female,Riga,9
+9,Jaunā konservatīvā partija,88,Māris Virkavs,Male,Riga,19
+9,Jaunā konservatīvā partija,89,Antra Visendorfa,Female,Vidzeme,23
+9,Jaunā konservatīvā partija,90,Edmunds Visendorfs,Male,Vidzeme,8
+9,Jaunā konservatīvā partija,91,Ingūna Vismane,Female,Riga,13
+9,Jaunā konservatīvā partija,92,Daina Vīķele,Female,Riga,26
+9,Jaunā konservatīvā partija,93,Regīna Vucāne,Female,Riga,22
+9,Jaunā konservatīvā partija,94,Aigars Zīmelis,Male,Latgale,2
+9,Jaunā konservatīvā partija,95,Agris Zvaigzneskalns,Male,Zemgale,2
+9,Jaunā konservatīvā partija,96,Didzis Zviedris,Male,Kurzeme,11
+9,Jaunā konservatīvā partija,97,Lāsma Žagota,Female,Vidzeme,6
+10,"""Latvijas Krievu savienība""",1,Vjačeslavs Altuhovs,Male,Riga,15
+10,"""Latvijas Krievu savienība""",2,Tatjana Babajeva,Female,Riga,24
+10,"""Latvijas Krievu savienība""",3,Jeļena Bačinska,Female,Riga,7
+10,"""Latvijas Krievu savienība""",4,Jeļena Beskorovainaja,Female,Zemgale,10
+10,"""Latvijas Krievu savienība""",5,Taisja Bite,Female,Riga,22
+10,"""Latvijas Krievu savienība""",6,Irina Boļšakova,Female,Latgale,3
+10,"""Latvijas Krievu savienība""",7,Eduards Bonders,Male,Vidzeme,9
+10,"""Latvijas Krievu savienība""",8,Konstantīns Boroņins,Male,Kurzeme,4
+10,"""Latvijas Krievu savienība""",9,Vladimirs Buzajevs,Male,Riga,4
+10,"""Latvijas Krievu savienība""",10,Irina Cvetkova,Female,Riga,2
+10,"""Latvijas Krievu savienība""",11,Nataļja Čehova,Female,Zemgale,3
+10,"""Latvijas Krievu savienība""",12,Filips Dudins,Male,Riga,21
+10,"""Latvijas Krievu savienība""",13,Tatjana Favorska,Female,Riga,14
+10,"""Latvijas Krievu savienība""",14,Aleksandrs Filejs,Male,Vidzeme,1
+10,"""Latvijas Krievu savienība""",15,Maksims Galkins,Male,Zemgale,6
+10,"""Latvijas Krievu savienība""",16,Aleksandrs Gamaļejevs,Male,Riga,12
+10,"""Latvijas Krievu savienība""",17,Helēna Geriloviča,Female,Kurzeme,2
+10,"""Latvijas Krievu savienība""",18,Maksims Golubevs,Male,Latgale,14
+10,"""Latvijas Krievu savienība""",19,Andrejs Golubevs,Male,Latgale,12
+10,"""Latvijas Krievu savienība""",20,Einārs Graudiņš,Male,Riga,6
+10,"""Latvijas Krievu savienība""",21,Anatolijs Grjaznovs,Male,Riga,23
+10,"""Latvijas Krievu savienība""",22,Viktors Guščins,Male,Zemgale,2
+10,"""Latvijas Krievu savienība""",23,Nikolajs Harlamovs,Male,Latgale,7
+10,"""Latvijas Krievu savienība""",24,Vladimirs Hodakovskis,Male,Riga,13
+10,"""Latvijas Krievu savienība""",25,Deniss Ignatjevs,Male,Zemgale,9
+10,"""Latvijas Krievu savienība""",26,Nazira Iso,Female,Riga,20
+10,"""Latvijas Krievu savienība""",27,Tatjana Jegorova,Female,Riga,26
+10,"""Latvijas Krievu savienība""",28,Nadežda Jeļņikova,Female,Riga,30
+10,"""Latvijas Krievu savienība""",29,Tatjana Jemeļjanova,Female,Riga,16
+10,"""Latvijas Krievu savienība""",30,Ivans Jengaševs,Male,Vidzeme,7
+10,"""Latvijas Krievu savienība""",31,Dmitrijs Jermaks,Male,Riga,25
+10,"""Latvijas Krievu savienība""",32,Natālija Jolkina,Female,Riga,9
+10,"""Latvijas Krievu savienība""",33,Pāvels Kirillovs,Male,Riga,5
+10,"""Latvijas Krievu savienība""",34,Elita Kosaka,Female,Kurzeme,1
+10,"""Latvijas Krievu savienība""",35,Iļja Kozirevs,Female,Vidzeme,3
+10,"""Latvijas Krievu savienība""",36,Vitālijs Krugļešovs,Male,Zemgale,8
+10,"""Latvijas Krievu savienība""",37,Fjodors Krupenkins,Male,Vidzeme,6
+10,"""Latvijas Krievu savienība""",38,Valentīna Kudrjavceva,Female,Zemgale,4
+10,"""Latvijas Krievu savienība""",39,Aleksejs Kurepins,Male,Riga,27
+10,"""Latvijas Krievu savienība""",40,Aleksandrs Kuzmins,Male,Riga,8
+10,"""Latvijas Krievu savienība""",41,Jeļena Kuzņecova,Female,Zemgale,11
+10,"""Latvijas Krievu savienība""",42,Vladimirs Kuzņecovs,Male,Kurzeme,5
+10,"""Latvijas Krievu savienība""",43,Edvards Kvasņevskis,Male,Riga,19
+10,"""Latvijas Krievu savienība""",44,Aleksandrs Ļivčaks,Male,Latgale,2
+10,"""Latvijas Krievu savienība""",45,Ašots Mamikonjans,Male,Latgale,10
+10,"""Latvijas Krievu savienība""",46,Miroslavs Mitrofanovs,Male,Riga,1
+10,"""Latvijas Krievu savienība""",47,Viktorija Murina,Female,Riga,18
+10,"""Latvijas Krievu savienība""",48,Olga Odincova,Female,Zemgale,5
+10,"""Latvijas Krievu savienība""",49,Valērijs Orlovs,Male,Latgale,9
+10,"""Latvijas Krievu savienība""",50,Valērijs Oščenkovs,Male,Latgale,6
+10,"""Latvijas Krievu savienība""",51,Jakovs Pliners,Male,Riga,3
+10,"""Latvijas Krievu savienība""",52,Ivans Popovs,Male,Latgale,11
+10,"""Latvijas Krievu savienība""",53,Pāvels Prozors,Male,Latgale,13
+10,"""Latvijas Krievu savienība""",54,Aleksandrs Prutkovs,Male,Vidzeme,8
+10,"""Latvijas Krievu savienība""",55,Edvīns Puķe,Male,Riga,10
+10,"""Latvijas Krievu savienība""",56,Anatolijs Pušņakovs,Male,Latgale,5
+10,"""Latvijas Krievu savienība""",57,Vladislavs Rafaļskis,Male,Riga,11
+10,"""Latvijas Krievu savienība""",58,Ludmila Rodionova,Female,Vidzeme,4
+10,"""Latvijas Krievu savienība""",59,Gagiks Sarkisjans,Male,Riga,31
+10,"""Latvijas Krievu savienība""",60,Valerijs Solncevs,Male,Riga,29
+10,"""Latvijas Krievu savienība""",61,Andrejs Solopenko,Male,Vidzeme,5
+10,"""Latvijas Krievu savienība""",62,Sergejs Solovjovs,Male,Latgale,8
+10,"""Latvijas Krievu savienība""",63,Nikolajs Starikovs,Male,Zemgale,7
+10,"""Latvijas Krievu savienība""",64,Nadežda Svincova,Female,Zemgale,12
+10,"""Latvijas Krievu savienība""",65,Ilona Titarenko,Female,Kurzeme,3
+10,"""Latvijas Krievu savienība""",66,Andris Tolmačovs,Male,Vidzeme,2
+10,"""Latvijas Krievu savienība""",67,Jeļena Učaikina,Female,Vidzeme,10
+10,"""Latvijas Krievu savienība""",68,Ludmila Ušakova,Female,Zemgale,1
+10,"""Latvijas Krievu savienība""",69,Aleksejs Vasiļjevs,Male,Latgale,4
+10,"""Latvijas Krievu savienība""",70,Viktorija Viļumsone,Female,Riga,28
+10,"""Latvijas Krievu savienība""",71,Vladimirs Vlasovs,Male,Kurzeme,6
+10,"""Latvijas Krievu savienība""",72,Ludmila Vorobjova,Female,Vidzeme,11
+10,"""Latvijas Krievu savienība""",73,Jurijs Zaicevs,Male,Latgale,1
+10,"""Latvijas Krievu savienība""",74,Aina Žuravļova,Female,Riga,17
+11,"""Saskaņa"" sociāldemokrātiskā partija",1,Valērijs Agešins,Male,Kurzeme,1
+11,"""Saskaņa"" sociāldemokrātiskā partija",2,Vitālijs Aizbalts,Male,Latgale,4
+11,"""Saskaņa"" sociāldemokrātiskā partija",3,Aļona Annišineca,Female,Latgale,12
+11,"""Saskaņa"" sociāldemokrātiskā partija",4,Ziedonis Apariņš,Male,Vidzeme,29
+11,"""Saskaņa"" sociāldemokrātiskā partija",5,Andris Arcimovičs,Male,Zemgale,8
+11,"""Saskaņa"" sociāldemokrātiskā partija",6,Mārtiņš Artiņš,Male,Vidzeme,19
+11,"""Saskaņa"" sociāldemokrātiskā partija",7,Viesturs Āboliņš,Male,Riga,28
+11,"""Saskaņa"" sociāldemokrātiskā partija",8,Jānis Ādamsons,Male,Vidzeme,4
+11,"""Saskaņa"" sociāldemokrātiskā partija",9,Inese Baikovska,Female,Vidzeme,17
+11,"""Saskaņa"" sociāldemokrātiskā partija",10,Marks Barkāns,Male,Vidzeme,26
+11,"""Saskaņa"" sociāldemokrātiskā partija",11,Raivis Belohvoščiks,Male,Riga,30
+11,"""Saskaņa"" sociāldemokrātiskā partija",12,Olga Belova,Female,Latgale,18
+11,"""Saskaņa"" sociāldemokrātiskā partija",13,Sandris Bergmanis,Male,Vidzeme,7
+11,"""Saskaņa"" sociāldemokrātiskā partija",14,Raimonds Bērziņš,Male,Vidzeme,27
+11,"""Saskaņa"" sociāldemokrātiskā partija",15,Boriss Cilevičs,Male,Riga,4
+11,"""Saskaņa"" sociāldemokrātiskā partija",16,Mihails Cogla,Male,Kurzeme,13
+11,"""Saskaņa"" sociāldemokrātiskā partija",17,Leonids Cvetkovs,Male,Latgale,15
+11,"""Saskaņa"" sociāldemokrātiskā partija",18,Raitis Čekšs,Male,Zemgale,12
+11,"""Saskaņa"" sociāldemokrātiskā partija",19,Normunds Dimitrijevs,Male,Latgale,11
+11,"""Saskaņa"" sociāldemokrātiskā partija",20,Sergejs Dolgopolovs,Male,Vidzeme,2
+11,"""Saskaņa"" sociāldemokrātiskā partija",21,Irina Dolgova,Female,Zemgale,17
+11,"""Saskaņa"" sociāldemokrātiskā partija",22,Jaroslavs Dorenskis,Male,Kurzeme,14
+11,"""Saskaņa"" sociāldemokrātiskā partija",23,Vladimirs Eihenbaums,Male,Riga,31
+11,"""Saskaņa"" sociāldemokrātiskā partija",24,Andrejs Elksniņš,Male,Latgale,1
+11,"""Saskaņa"" sociāldemokrātiskā partija",25,Ludmila Fedorkova,Female,Vidzeme,11
+11,"""Saskaņa"" sociāldemokrātiskā partija",26,Henrijs Frīdenbergs,Male,Riga,22
+11,"""Saskaņa"" sociāldemokrātiskā partija",27,Raimonds Gailis,Male,Riga,8
+11,"""Saskaņa"" sociāldemokrātiskā partija",28,Sergejs Galaveckis,Male,Kurzeme,15
+11,"""Saskaņa"" sociāldemokrātiskā partija",29,Jānis Geduševs,Male,Riga,3
+11,"""Saskaņa"" sociāldemokrātiskā partija",30,Valentīns Grigorjevs,Male,Zemgale,4
+11,"""Saskaņa"" sociāldemokrātiskā partija",31,Oļegs Hļebņikovs,Male,Latgale,10
+11,"""Saskaņa"" sociāldemokrātiskā partija",32,Mihails Hohlovs,Male,Zemgale,13
+11,"""Saskaņa"" sociāldemokrātiskā partija",33,Marjana Ivanova-Jevsejeva,Female,Latgale,9
+11,"""Saskaņa"" sociāldemokrātiskā partija",34,Vladimirs Ivanovs,Male,Riga,20
+11,"""Saskaņa"" sociāldemokrātiskā partija",35,Kristīna Jablonska,Female,Kurzeme,9
+11,"""Saskaņa"" sociāldemokrātiskā partija",36,Aleksandrs Jakimovs,Male,Latgale,7
+11,"""Saskaņa"" sociāldemokrātiskā partija",37,Ivars Jakovels,Male,Zemgale,3
+11,"""Saskaņa"" sociāldemokrātiskā partija",38,Jeļena Jakovļeva,Female,Riga,25
+11,"""Saskaņa"" sociāldemokrātiskā partija",39,Viktors Jakovļevs,Male,Vidzeme,6
+11,"""Saskaņa"" sociāldemokrātiskā partija",40,Indulis Jankovskis,Male,Kurzeme,3
+11,"""Saskaņa"" sociāldemokrātiskā partija",41,Viktors Jasiņavičs,Male,Latgale,17
+11,"""Saskaņa"" sociāldemokrātiskā partija",42,Pjotrs Jevtušenko,Male,Kurzeme,8
+11,"""Saskaņa"" sociāldemokrātiskā partija",43,Einārs Jurkevičs,Male,Latgale,16
+11,"""Saskaņa"" sociāldemokrātiskā partija",44,Valdis Kalniņš,Male,Vidzeme,23
+11,"""Saskaņa"" sociāldemokrātiskā partija",45,Agnis Kalnkaziņš,Male,Riga,7
+11,"""Saskaņa"" sociāldemokrātiskā partija",46,Raimonds Kalvišs,Male,Latgale,13
+11,"""Saskaņa"" sociāldemokrātiskā partija",47,Modris Karpovs,Male,Latgale,14
+11,"""Saskaņa"" sociāldemokrātiskā partija",48,Ivo Kiršblats,Male,Riga,11
+11,"""Saskaņa"" sociāldemokrātiskā partija",49,Ivans Klementjevs,Male,Riga,12
+11,"""Saskaņa"" sociāldemokrātiskā partija",50,Andrejs Klementjevs,Male,Riga,2
+11,"""Saskaņa"" sociāldemokrātiskā partija",51,Jeļena Koncevaja,Female,Riga,23
+11,"""Saskaņa"" sociāldemokrātiskā partija",52,Andrejs Kondratjuks,Male,Vidzeme,13
+11,"""Saskaņa"" sociāldemokrātiskā partija",53,Aivars Guntis Kreituss,Male,Vidzeme,9
+11,"""Saskaņa"" sociāldemokrātiskā partija",54,Kristaps Laucis,Male,Vidzeme,16
+11,"""Saskaņa"" sociāldemokrātiskā partija",55,Aigars Lavrinovičs,Male,Vidzeme,18
+11,"""Saskaņa"" sociāldemokrātiskā partija",56,Jeļena Lazareva,Female,Latgale,6
+11,"""Saskaņa"" sociāldemokrātiskā partija",57,Kārlis Leiškalns,Male,Vidzeme,3
+11,"""Saskaņa"" sociāldemokrātiskā partija",58,Regīna Ločmele-Luņova,Female,Riga,15
+11,"""Saskaņa"" sociāldemokrātiskā partija",59,Fjodors Maļonkins,Male,Vidzeme,24
+11,"""Saskaņa"" sociāldemokrātiskā partija",60,Aleksejs Medvedevs,Male,Kurzeme,4
+11,"""Saskaņa"" sociāldemokrātiskā partija",61,Gatis Meiris,Male,Kurzeme,12
+11,"""Saskaņa"" sociāldemokrātiskā partija",62,Romans Miloslavskis,Male,Kurzeme,5
+11,"""Saskaņa"" sociāldemokrātiskā partija",63,Sergejs Mirskis,Male,Riga,5
+11,"""Saskaņa"" sociāldemokrātiskā partija",64,Anatolijs Misjuks,Male,Zemgale,11
+11,"""Saskaņa"" sociāldemokrātiskā partija",65,Ralfs Morītis,Male,Vidzeme,12
+11,"""Saskaņa"" sociāldemokrātiskā partija",66,Andris Morozovs,Male,Riga,35
+11,"""Saskaņa"" sociāldemokrātiskā partija",67,Valerijs Nikolajevs,Male,Zemgale,15
+11,"""Saskaņa"" sociāldemokrātiskā partija",68,Vladimirs Nikonovs,Male,Latgale,8
+11,"""Saskaņa"" sociāldemokrātiskā partija",69,Ņikita Ņikiforovs,Male,Riga,13
+11,"""Saskaņa"" sociāldemokrātiskā partija",70,Dzintars Obrickis,Male,Kurzeme,16
+11,"""Saskaņa"" sociāldemokrātiskā partija",71,Vitālijs Orlovs,Male,Zemgale,2
+11,"""Saskaņa"" sociāldemokrātiskā partija",72,Viktors Paškovs,Male,Riga,26
+11,"""Saskaņa"" sociāldemokrātiskā partija",73,Sergejs Pašukovs,Male,Zemgale,9
+11,"""Saskaņa"" sociāldemokrātiskā partija",74,Krišjānis Peters,Male,Zemgale,1
+11,"""Saskaņa"" sociāldemokrātiskā partija",75,Igors Pimenovs,Male,Riga,16
+11,"""Saskaņa"" sociāldemokrātiskā partija",76,Sergejs Potapkins,Male,Riga,9
+11,"""Saskaņa"" sociāldemokrātiskā partija",77,Jānis Priede,Male,Vidzeme,22
+11,"""Saskaņa"" sociāldemokrātiskā partija",78,Igors Puntuss,Male,Riga,33
+11,"""Saskaņa"" sociāldemokrātiskā partija",79,Tatjana Rezņika,Female,Vidzeme,20
+11,"""Saskaņa"" sociāldemokrātiskā partija",80,Ivans Ribakovs,Male,Latgale,3
+11,"""Saskaņa"" sociāldemokrātiskā partija",81,Baiba Rozentāle,Female,Riga,10
+11,"""Saskaņa"" sociāldemokrātiskā partija",82,Artūrs Rubiks,Male,Riga,6
+11,"""Saskaņa"" sociāldemokrātiskā partija",83,Raimonds Rubiks,Male,Latgale,5
+11,"""Saskaņa"" sociāldemokrātiskā partija",84,Raimonds Rublovskis,Male,Kurzeme,2
+11,"""Saskaņa"" sociāldemokrātiskā partija",85,Iveta Safranoviča,Female,Zemgale,7
+11,"""Saskaņa"" sociāldemokrātiskā partija",86,Inna Sakoviča,Female,Zemgale,16
+11,"""Saskaņa"" sociāldemokrātiskā partija",87,Aleksandrs Sakovskis,Male,Vidzeme,5
+11,"""Saskaņa"" sociāldemokrātiskā partija",88,Vadims Savkovs,Male,Vidzeme,28
+11,"""Saskaņa"" sociāldemokrātiskā partija",89,Nikolajs Skačkovs,Male,Riga,34
+11,"""Saskaņa"" sociāldemokrātiskā partija",90,Gaļina Skorobogatova,Female,Kurzeme,6
+11,"""Saskaņa"" sociāldemokrātiskā partija",91,Nikolajs Sokols,Male,Zemgale,5
+11,"""Saskaņa"" sociāldemokrātiskā partija",92,Karina Sprūde,Female,Vidzeme,14
+11,"""Saskaņa"" sociāldemokrātiskā partija",93,Jūlija Stepaņenko,Female,Riga,14
+11,"""Saskaņa"" sociāldemokrātiskā partija",94,Vjačeslavs Stunžāns,Male,Kurzeme,10
+11,"""Saskaņa"" sociāldemokrātiskā partija",95,Andrejs Šikors,Male,Riga,24
+11,"""Saskaņa"" sociāldemokrātiskā partija",96,Inese Švekle,Female,Riga,18
+11,"""Saskaņa"" sociāldemokrātiskā partija",97,Natalija Tkačenko,Female,Kurzeme,11
+11,"""Saskaņa"" sociāldemokrātiskā partija",98,Zenta Tretjaka,Female,Zemgale,6
+11,"""Saskaņa"" sociāldemokrātiskā partija",99,Vitalijs Trusevičs,Male,Kurzeme,7
+11,"""Saskaņa"" sociāldemokrātiskā partija",100,Jānis Tutins,Male,Latgale,2
+11,"""Saskaņa"" sociāldemokrātiskā partija",101,Jānis Urbanovičs,Male,Riga,1
+11,"""Saskaņa"" sociāldemokrātiskā partija",102,Normunds Vagalis,Male,Vidzeme,21
+11,"""Saskaņa"" sociāldemokrātiskā partija",103,Edgars Vaikulis,Male,Vidzeme,10
+11,"""Saskaņa"" sociāldemokrātiskā partija",104,Aleksandrs Vasiļjevs,Male,Riga,32
+11,"""Saskaņa"" sociāldemokrātiskā partija",105,Valerijs Vilčinskis,Male,Vidzeme,15
+11,"""Saskaņa"" sociāldemokrātiskā partija",106,Ruslans Vrobļevskis,Male,Zemgale,14
+11,"""Saskaņa"" sociāldemokrātiskā partija",107,Jeļena Zagainova,Female,Riga,21
+11,"""Saskaņa"" sociāldemokrātiskā partija",108,Ivars Zariņš,Male,Vidzeme,1
+11,"""Saskaņa"" sociāldemokrātiskā partija",109,Mihails Zemļinskis,Male,Riga,17
+11,"""Saskaņa"" sociāldemokrātiskā partija",110,Inga Ziņģe-Pupiņa,Female,Riga,27
+11,"""Saskaņa"" sociāldemokrātiskā partija",111,Igors Zujevs,Male,Riga,19
+11,"""Saskaņa"" sociāldemokrātiskā partija",112,Edgars Zveja,Male,Vidzeme,8
+11,"""Saskaņa"" sociāldemokrātiskā partija",113,Mareks Žizņevskis,Male,Zemgale,10
+11,"""Saskaņa"" sociāldemokrātiskā partija",114,Igors Žukovs,Male,Vidzeme,25
+11,"""Saskaņa"" sociāldemokrātiskā partija",115,Vladimirs Žuks,Male,Riga,29
+12,Zaļo un Zemnieku savienība,1,Inese Aizstrauta,Female,Vidzeme,5
+12,Zaļo un Zemnieku savienība,2,Uldis Augulis,Male,Zemgale,2
+12,Zaļo un Zemnieku savienība,3,Gatis Ābele,Male,Vidzeme,19
+12,Zaļo un Zemnieku savienība,4,Aija Barča,Female,Kurzeme,2
+12,Zaļo un Zemnieku savienība,5,Ivars Bārdiņš,Male,Riga,34
+12,Zaļo un Zemnieku savienība,6,Rolands Bārenis,Male,Riga,28
+12,Zaļo un Zemnieku savienība,7,Uldis Beite,Male,Riga,20
+12,Zaļo un Zemnieku savienība,8,Guntis Belēvičs,Male,Riga,1
+12,Zaļo un Zemnieku savienība,9,Rūta Bendere,Female,Riga,31
+12,Zaļo un Zemnieku savienība,10,Raimonds Bergmanis,Male,Zemgale,4
+12,Zaļo un Zemnieku savienība,11,Andris Bērziņš,Male,Zemgale,3
+12,Zaļo un Zemnieku savienība,12,Gunārs Binde,Male,Riga,19
+12,Zaļo un Zemnieku savienība,13,Jānis Blūzmanis,Male,Zemgale,15
+12,Zaļo un Zemnieku savienība,14,Uldis Boitmanis,Male,Kurzeme,15
+12,Zaļo un Zemnieku savienība,15,Gints Briežkalns,Male,Riga,24
+12,Zaļo un Zemnieku savienība,16,Augusts Brigmanis,Male,Zemgale,1
+12,Zaļo un Zemnieku savienība,17,Ēvalds Cauņa,Male,Latgale,6
+12,Zaļo un Zemnieku savienība,18,Gunārs Ciglis,Male,Vidzeme,25
+12,Zaļo un Zemnieku savienība,19,Valters Dambe,Male,Vidzeme,17
+12,Zaļo un Zemnieku savienība,20,Gundars Daudze,Male,Kurzeme,3
+12,Zaļo un Zemnieku savienība,21,Aivars Dronka,Male,Zemgale,9
+12,Zaļo un Zemnieku savienība,22,Jānis Dūklavs,Male,Vidzeme,1
+12,Zaļo un Zemnieku savienība,23,Māris Dzelzskalns,Male,Vidzeme,24
+12,Zaļo un Zemnieku savienība,24,Gatis Dzērve-Tāluts,Male,Riga,30
+12,Zaļo un Zemnieku savienība,25,Vugars Ecmanis,Male,Vidzeme,9
+12,Zaļo un Zemnieku savienība,26,Rihards Eigims,Male,Latgale,2
+12,Zaļo un Zemnieku savienība,27,Jānis Golubevs,Male,Latgale,17
+12,Zaļo un Zemnieku savienība,28,Artūrs Graudiņš,Male,Riga,8
+12,Zaļo un Zemnieku savienība,29,Vijārs Griķis,Male,Vidzeme,27
+12,Zaļo un Zemnieku savienība,30,Ruta Grustāne,Female,Latgale,14
+12,Zaļo un Zemnieku savienība,31,Inga Gudēviča,Female,Riga,12
+12,Zaļo un Zemnieku savienība,32,Jānis Ieviņš,Male,Riga,13
+12,Zaļo un Zemnieku savienība,33,Mārtiņš Jirgens,Male,Riga,23
+12,Zaļo un Zemnieku savienība,34,Elita Kalniņa,Female,Riga,11
+12,Zaļo un Zemnieku savienība,35,Guntis Kalniņš,Male,Zemgale,13
+12,Zaļo un Zemnieku savienība,36,Valdis Kalnozols,Male,Riga,4
+12,Zaļo un Zemnieku savienība,37,Dainis Karols,Male,Kurzeme,5
+12,Zaļo un Zemnieku savienība,38,Inese Kārkliņa,Female,Vidzeme,20
+12,Zaļo un Zemnieku savienība,39,Elita Keiša,Female,Zemgale,14
+12,Zaļo un Zemnieku savienība,40,Katrīna Killa,Female,Riga,33
+12,Zaļo un Zemnieku savienība,41,Jānis Klaužs,Male,Latgale,3
+12,Zaļo un Zemnieku savienība,42,Ilze Kļava,Female,Kurzeme,9
+12,Zaļo un Zemnieku savienība,43,Askolds Kļaviņš,Male,Riga,35
+12,Zaļo un Zemnieku savienība,44,Valerijs Kozlovs,Male,Latgale,18
+12,Zaļo un Zemnieku savienība,45,Līga Kozlovska,Female,Latgale,5
+12,Zaļo un Zemnieku savienība,46,Armands Krauze,Male,Vidzeme,4
+12,Zaļo un Zemnieku savienība,47,Māris Kučinskis,Male,Riga,3
+12,Zaļo un Zemnieku savienība,48,Vitolds Kudurs,Male,Latgale,9
+12,Zaļo un Zemnieku savienība,49,Jānis Leitis,Male,Vidzeme,16
+12,Zaļo un Zemnieku savienība,50,Ingmārs Līdaka,Male,Vidzeme,2
+12,Zaļo un Zemnieku savienība,51,Arnis Luhse,Male,Vidzeme,10
+12,Zaļo un Zemnieku savienība,52,Agris Lungevičs,Male,Vidzeme,15
+12,Zaļo un Zemnieku savienība,53,Voldemārs Lūsis,Male,Vidzeme,18
+12,Zaļo un Zemnieku savienība,54,Jeļena Malahova,Female,Riga,26
+12,Zaļo un Zemnieku savienība,55,Mārtiņš Martinsons,Male,Kurzeme,10
+12,Zaļo un Zemnieku savienība,56,Ģirts Mazurs,Male,Riga,18
+12,Zaļo un Zemnieku savienība,57,Jānis Megnis,Male,Kurzeme,14
+12,Zaļo un Zemnieku savienība,58,Pāvels Melnis,Male,Latgale,10
+12,Zaļo un Zemnieku savienība,59,Ainārs Mežulis,Male,Vidzeme,6
+12,Zaļo un Zemnieku savienība,60,Andris Mihaļovs,Male,Vidzeme,28
+12,Zaļo un Zemnieku savienība,61,Aivars Nalivaiko,Male,Vidzeme,13
+12,Zaļo un Zemnieku savienība,62,Irēna Opšteine,Female,Kurzeme,8
+12,Zaļo un Zemnieku savienība,63,Andrejs Panteļējevs,Male,Latgale,7
+12,Zaļo un Zemnieku savienība,64,Imants Pastors,Male,Vidzeme,11
+12,Zaļo un Zemnieku savienība,65,Rihards Plotka,Male,Riga,29
+12,Zaļo un Zemnieku savienība,66,Uldis Plūmīte,Male,Vidzeme,23
+12,Zaļo un Zemnieku savienība,67,Indriķis Putniņš,Male,Vidzeme,7
+12,Zaļo un Zemnieku savienība,68,Edgars Putra,Male,Kurzeme,13
+12,Zaļo un Zemnieku savienība,69,Vita Pūķe,Female,Vidzeme,22
+12,Zaļo un Zemnieku savienība,70,Arvīds Raciborskis,Male,Latgale,11
+12,Zaļo un Zemnieku savienība,71,Artis Rasmanis,Male,Vidzeme,8
+12,Zaļo un Zemnieku savienība,72,Jānis Rāzna,Male,Riga,6
+12,Zaļo un Zemnieku savienība,73,Dana Reizniece-Ozola,Female,Kurzeme,1
+12,Zaļo un Zemnieku savienība,74,Kaspars Rimšs,Male,Latgale,16
+12,Zaļo un Zemnieku savienība,75,Dace Rolava,Female,Riga,25
+12,Zaļo un Zemnieku savienība,76,Sandra Rone,Female,Vidzeme,26
+12,Zaļo un Zemnieku savienība,77,Inguna Rožkalne-Žubure,Female,Vidzeme,21
+12,Zaļo un Zemnieku savienība,78,Aivars Rudzroga,Male,Kurzeme,12
+12,Zaļo un Zemnieku savienība,79,Liene Rulle,Female,Zemgale,17
+12,Zaļo un Zemnieku savienība,80,Mārtiņš Ruža,Male,Zemgale,10
+12,Zaļo un Zemnieku savienība,81,Māris Salzirnis,Male,Riga,15
+12,Zaļo un Zemnieku savienība,82,Mareks Segliņš,Male,Kurzeme,4
+12,Zaļo un Zemnieku savienība,83,Kārlis Seržants,Male,Riga,2
+12,Zaļo un Zemnieku savienība,84,Andris Siliņš,Male,Vidzeme,3
+12,Zaļo un Zemnieku savienība,85,Valdis Skujiņš,Male,Kurzeme,16
+12,Zaļo un Zemnieku savienība,86,Aldis Slavinskis,Male,Kurzeme,11
+12,Zaļo un Zemnieku savienība,87,Māris Slokenbergs,Male,Riga,17
+12,Zaļo un Zemnieku savienība,88,Alfons Spēks,Male,Kurzeme,6
+12,Zaļo un Zemnieku savienība,89,Baiba Stabulniece,Female,Riga,16
+12,Zaļo un Zemnieku savienība,90,Jānis Stakens,Male,Riga,9
+12,Zaļo un Zemnieku savienība,91,Dagnija Staķe,Female,Zemgale,7
+12,Zaļo un Zemnieku savienība,92,Aivars Straume,Male,Vidzeme,14
+12,Zaļo un Zemnieku savienība,93,Izolde Stugle,Female,Latgale,15
+12,Zaļo un Zemnieku savienība,94,Staņislavs Šķesters,Male,Latgale,8
+12,Zaļo un Zemnieku savienība,95,Inga Štāle,Female,Zemgale,8
+12,Zaļo un Zemnieku savienība,96,Edgars Tavars,Male,Riga,5
+12,Zaļo un Zemnieku savienība,97,Andris Tēraudkalns,Male,Riga,32
+12,Zaļo un Zemnieku savienība,98,Kristaps Treimanis,Male,Riga,21
+12,Zaļo un Zemnieku savienība,99,Jānis Trupovnieks,Male,Latgale,4
+12,Zaļo un Zemnieku savienība,100,Arvīds Ulme,Male,Riga,7
+12,Zaļo un Zemnieku savienība,101,Diāna Upeniece,Female,Latgale,13
+12,Zaļo un Zemnieku savienība,102,Reinis Uzulnieks,Male,Riga,10
+12,Zaļo un Zemnieku savienība,103,Daina Vasiļevska,Female,Riga,22
+12,Zaļo un Zemnieku savienība,104,Alīda Vāne,Female,Zemgale,16
+12,Zaļo un Zemnieku savienība,105,Juris Vectirāns,Male,Zemgale,5
+12,Zaļo un Zemnieku savienība,106,Vilnis Veinbergs,Male,Zemgale,6
+12,Zaļo un Zemnieku savienība,107,Raimonds Vējonis,Male,Latgale,1
+12,Zaļo un Zemnieku savienība,108,Antija Vēvere,Female,Latgale,12
+12,Zaļo un Zemnieku savienība,109,Ingrīda Vilkārse,Female,Vidzeme,29
+12,Zaļo un Zemnieku savienība,110,Ilona Virza-Zariņa,Female,Zemgale,11
+12,Zaļo un Zemnieku savienība,111,Renārs Vītols,Male,Riga,27
+12,Zaļo un Zemnieku savienība,112,Jānis Vucāns,Male,Kurzeme,7
+12,Zaļo un Zemnieku savienība,113,Ēriks Zaporožecs,Male,Zemgale,12
+12,Zaļo un Zemnieku savienība,114,Didzis Zemmers,Male,Vidzeme,12
+12,Zaļo un Zemnieku savienība,115,Jānis Zīvers,Male,Riga,14
+13,No sirds Latvijai,1,Ivars Amoliņš,Male,Zemgale,9
+13,No sirds Latvijai,2,Jautrīte Ašurova,Female,Vidzeme,13
+13,No sirds Latvijai,3,Ringolds Balodis,Male,Kurzeme,1
+13,No sirds Latvijai,4,Sandra Bāliņa,Female,Riga,14
+13,No sirds Latvijai,5,Sandis Bārdiņš,Male,Kurzeme,11
+13,No sirds Latvijai,6,Valters Bolēvics,Male,Riga,6
+13,No sirds Latvijai,7,Tamāra Brice,Female,Riga,25
+13,No sirds Latvijai,8,Liene Cipule,Female,Vidzeme,3
+13,No sirds Latvijai,9,Jānis Dārziņš,Male,Latgale,8
+13,No sirds Latvijai,10,Guntars Dārznieks,Male,Vidzeme,6
+13,No sirds Latvijai,11,Vera Doreiko-Sinkeviča,Female,Latgale,12
+13,No sirds Latvijai,12,Guntars Driņķis,Male,Vidzeme,9
+13,No sirds Latvijai,13,Anžela Dubovska,Female,Latgale,6
+13,No sirds Latvijai,14,Marita Eisaka,Female,Riga,22
+13,No sirds Latvijai,15,Ivars Falks,Male,Zemgale,4
+13,No sirds Latvijai,16,Rihards Fridbergs,Male,Riga,33
+13,No sirds Latvijai,17,Jānis Garbovskis,Male,Vidzeme,7
+13,No sirds Latvijai,18,Skaidrīte Grigale,Female,Latgale,4
+13,No sirds Latvijai,19,Jānis Grigalis,Male,Riga,21
+13,No sirds Latvijai,20,Eduards Grubevičs,Male,Latgale,13
+13,No sirds Latvijai,21,Juris Jaunzems,Male,Kurzeme,8
+13,No sirds Latvijai,22,Andrejs Jirgensons,Male,Riga,23
+13,No sirds Latvijai,23,Māris Jurušs,Male,Vidzeme,8
+13,No sirds Latvijai,24,Juris Kajaks,Male,Vidzeme,17
+13,No sirds Latvijai,25,Daiga Kalniņa,Female,Kurzeme,2
+13,No sirds Latvijai,26,Inguna Kalniņa,Female,Riga,11
+13,No sirds Latvijai,27,Leonīds Kaļiņins,Male,Latgale,16
+13,No sirds Latvijai,28,Dace Kaminska,Female,Zemgale,12
+13,No sirds Latvijai,29,Andrejs Kitovs,Male,Latgale,14
+13,No sirds Latvijai,30,Pēteris Kolāts,Male,Kurzeme,7
+13,No sirds Latvijai,31,Ineta Kona,Female,Vidzeme,21
+13,No sirds Latvijai,32,Gints Kragliks,Male,Vidzeme,18
+13,No sirds Latvijai,33,Andrejs Krasņikovs,Male,Riga,8
+13,No sirds Latvijai,34,Ivars Krusts,Male,Zemgale,13
+13,No sirds Latvijai,35,Jānis Kurpnieks,Male,Zemgale,8
+13,No sirds Latvijai,36,Nelli Kutukova,Female,Riga,30
+13,No sirds Latvijai,37,Gunārs Kūtris,Male,Vidzeme,1
+13,No sirds Latvijai,38,Inese Lagzdiņa,Female,Kurzeme,13
+13,No sirds Latvijai,39,Margarita Laicāne,Female,Vidzeme,25
+13,No sirds Latvijai,40,Inna Laizāne,Female,Riga,7
+13,No sirds Latvijai,41,Tālis Laizāns,Male,Riga,9
+13,No sirds Latvijai,42,Valdis Lauskis,Male,Riga,5
+13,No sirds Latvijai,43,Silva Lazda-Poikāne,Female,Riga,32
+13,No sirds Latvijai,44,Valentīna Lazovska,Female,Latgale,9
+13,No sirds Latvijai,45,Viktors Lelis,Male,Zemgale,6
+13,No sirds Latvijai,46,Jānis Liberts,Male,Riga,17
+13,No sirds Latvijai,47,Marks Lomonosovs,Male,Vidzeme,20
+13,No sirds Latvijai,48,Oskars Lūsis,Male,Vidzeme,10
+13,No sirds Latvijai,49,Romualds Maculevičs,Male,Latgale,10
+13,No sirds Latvijai,50,Natālija Magazeina,Female,Kurzeme,5
+13,No sirds Latvijai,51,Daina Medne,Female,Riga,10
+13,No sirds Latvijai,52,Aivars Meija,Male,Zemgale,1
+13,No sirds Latvijai,53,Agris Meirēns,Male,Zemgale,14
+13,No sirds Latvijai,54,Romāns Mežeckis,Male,Riga,3
+13,No sirds Latvijai,55,Klāvs Miezis,Male,Vidzeme,24
+13,No sirds Latvijai,56,Māris Nagla,Male,Kurzeme,4
+13,No sirds Latvijai,57,Jānis Neimanis,Male,Kurzeme,6
+13,No sirds Latvijai,58,Raimonds Nipers,Male,Latgale,5
+13,No sirds Latvijai,59,Diāna Novicka,Female,Zemgale,2
+13,No sirds Latvijai,60,Dace Nulle,Female,Riga,4
+13,No sirds Latvijai,61,Iveta Ozoliņa,Female,Vidzeme,11
+13,No sirds Latvijai,62,Sergejs Parvatkins,Male,Riga,13
+13,No sirds Latvijai,63,Jekaterīna Pavlova,Female,Riga,18
+13,No sirds Latvijai,64,Inguna Pelše,Female,Vidzeme,26
+13,No sirds Latvijai,65,Anita Petrova,Female,Latgale,2
+13,No sirds Latvijai,66,Edmunds Pētersons,Male,Zemgale,5
+13,No sirds Latvijai,67,Inese Pivare,Female,Vidzeme,27
+13,No sirds Latvijai,68,Arvīds Platpers,Male,Vidzeme,4
+13,No sirds Latvijai,69,Andris Priekulis,Male,Riga,2
+13,No sirds Latvijai,70,Juris Razživins,Male,Zemgale,10
+13,No sirds Latvijai,71,Baiba Reitere,Female,Riga,28
+13,No sirds Latvijai,72,Guntis Rolis,Male,Kurzeme,3
+13,No sirds Latvijai,73,Anatolijs Romaņuks,Male,Latgale,7
+13,No sirds Latvijai,74,Valters Rotkājs,Male,Vidzeme,15
+13,No sirds Latvijai,75,Roksana Rudeviča,Female,Riga,24
+13,No sirds Latvijai,76,Vladimirs Rusanovs,Male,Riga,26
+13,No sirds Latvijai,77,Aivars Saulītis,Male,Zemgale,7
+13,No sirds Latvijai,78,Silvija Saviča,Female,Vidzeme,23
+13,No sirds Latvijai,79,Tahirs Sīmanis,Male,Vidzeme,22
+13,No sirds Latvijai,80,Indulis Skudra,Male,Zemgale,11
+13,No sirds Latvijai,81,Mārtiņš Smilga,Male,Riga,19
+13,No sirds Latvijai,82,Heino Spulģis,Male,Riga,15
+13,No sirds Latvijai,83,Ineta Stabulniece,Female,Vidzeme,2
+13,No sirds Latvijai,84,Inese Straume,Female,Vidzeme,14
+13,No sirds Latvijai,85,Inguna Sudraba,Female,Riga,1
+13,No sirds Latvijai,86,Valentīna Šabuņeviča,Female,Latgale,3
+13,No sirds Latvijai,87,Silvija Šimfa,Female,Latgale,1
+13,No sirds Latvijai,88,Natālija Tautkusa,Female,Latgale,11
+13,No sirds Latvijai,89,Igors Tračums,Male,Vidzeme,19
+13,No sirds Latvijai,90,Ēriks Treļs,Male,Riga,12
+13,No sirds Latvijai,91,Aleksejs Trigubjuks,Male,Riga,31
+13,No sirds Latvijai,92,Normunds Tukišs,Male,Vidzeme,12
+13,No sirds Latvijai,93,Iveta Tumaščika,Female,Kurzeme,9
+13,No sirds Latvijai,94,Ilgvars Ugars,Male,Latgale,15
+13,No sirds Latvijai,95,Liāna Ulmane,Female,Zemgale,15
+13,No sirds Latvijai,96,Inese Vārslavāne,Female,Zemgale,3
+13,No sirds Latvijai,97,Jānis Veips,Male,Kurzeme,12
+13,No sirds Latvijai,98,Daina Verveiko,Female,Riga,16
+13,No sirds Latvijai,99,Modra Vilkauša,Female,Vidzeme,16
+13,No sirds Latvijai,100,Guntars Viziņš,Male,Vidzeme,5
+13,No sirds Latvijai,101,Jānis Zalcmanis,Male,Riga,29
+13,No sirds Latvijai,102,Daiga Zipeva-Biumane,Female,Kurzeme,10
+13,No sirds Latvijai,103,Vladimirs Zvonarevs,Male,Riga,20
+13,No sirds Latvijai,104,Artūrs Žalostibs,Male,Riga,27
+13,No sirds Latvijai,105,Iveta Žvagiņa,Female,Zemgale,16
