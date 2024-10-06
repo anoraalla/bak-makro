@@ -1,4 +1,4 @@
-Saraksts,Partija,Numurs,Ievelets,Vards,Gender,Apgabals,Rangs,Ievelets
+Saraksts,Partija,OldNumurs,Ievelets,Vards,Gender,Apgabals,Numurs,Ievelets
 1,"""Latvijas attīstībai""",1,false,Agris Akulovs,Male,Kurzeme,7,false
 1,"""Latvijas attīstībai""",2,false,Inese Albova,Female,Vidzeme,23,false
 1,"""Latvijas attīstībai""",3,false,Ineta Atgāze,Female,Riga,22,false
