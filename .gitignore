@@ -1,3 +1,5 @@
 *.xlsx#
 *.ods#
 .DS_Store
+.Rproj.user
+.Rhistory

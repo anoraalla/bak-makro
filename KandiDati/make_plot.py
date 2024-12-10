@@ -77,7 +77,7 @@ for saeima in saeimas:
         percent_females_big_party.append(0)  # No elected candidates in this case
     
     
-    top25_df = big_party_df[big_party_df['Numurs'] <= 5]
+    top25_df = big_party_df[big_party_df['Numurs'] <= 4]
     total_top25_candidates = top25_df.shape[0]
     if total_top25_candidates > 0:
         female_top25_candidates = top25_df[top25_df['Gender'] == 'Female'].shape[0]

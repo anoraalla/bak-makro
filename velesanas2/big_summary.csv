@@ -1,0 +1,36 @@
+District,PartyName,PartyNumber,numMales,numFemales,sumPlusesMales,sumMinusesMales,sumPlusesFemales,sumMinusesFemales,totalVoters
+Rīga,1. Jaunā VIENOTĪBA,1,25,14,80606,62999,35179,38686,61137
+Rīga,3. Zaļo un Zemnieku savienība,3,27,12,22177,12862,8051,5489,16371
+Rīga,"8. Politiskā partija ""Stabilitātei!""",8,14,16,50149,3187,36486,3992,27172
+Rīga,"11. Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,28,11,26905,23715,12056,9956,21200
+Rīga,12. LATVIJA PIRMAJĀ VIETĀ,12,30,9,53913,19247,12511,6451,25518
+Rīga,"15. ""PROGRESĪVIE""",15,22,17,40008,17282,34539,13287,26881
+Rīga,"18. ""APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija""",18,27,12,29033,22742,8831,10956,20513
+Vidzeme,1. Jaunā VIENOTĪBA,1,18,11,76352,46275,17368,24566,61485
+Vidzeme,3. Zaļo un Zemnieku savienība,3,21,8,36075,21649,11021,8069,31711
+Vidzeme,"8. Politiskā partija ""Stabilitātei!""",8,8,4,9732,777,6041,383,7978
+Vidzeme,"11. Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,23,6,44941,25845,4414,6360,29861
+Vidzeme,12. LATVIJA PIRMAJĀ VIETĀ,12,17,12,15114,6283,12035,4261,13473
+Vidzeme,"15. ""PROGRESĪVIE""",15,16,13,15210,6356,10817,5064,15591
+Vidzeme,"18. ""APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija""",18,17,12,42203,29971,12397,18658,33078
+Latgale,1. Jaunā VIENOTĪBA,1,9,7,5017,6278,4983,4351,7747
+Latgale,3. Zaļo un Zemnieku savienība,3,9,7,14215,7763,10095,6367,16157
+Latgale,"8. Politiskā partija ""Stabilitātei!""",8,5,5,18812,1679,23072,1328,20634
+Latgale,"11. Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,9,7,7302,4483,3634,3756,6428
+Latgale,12. LATVIJA PIRMAJĀ VIETĀ,12,13,3,9486,4080,2546,970,7259
+Latgale,"15. ""PROGRESĪVIE""",15,7,9,1715,721,2849,930,2735
+Latgale,"18. ""APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija""",18,11,5,6533,5306,2215,2287,5693
+Kurzeme,1. Jaunā VIENOTĪBA,1,10,5,14272,13238,9633,6007,18879
+Kurzeme,3. Zaļo un Zemnieku savienība,3,11,4,28047,9243,8160,3108,24230
+Kurzeme,"8. Politiskā partija ""Stabilitātei!""",8,2,3,1359,83,2022,115,2487
+Kurzeme,"11. Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,9,6,8596,4836,5644,3375,11768
+Kurzeme,12. LATVIJA PIRMAJĀ VIETĀ,12,8,7,3676,1433,4658,1355,4907
+Kurzeme,"15. ""PROGRESĪVIE""",15,9,6,4309,1935,3018,1222,5512
+Kurzeme,"18. ""APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija""",18,11,4,23552,16619,9958,7769,25329
+Zemgale,1. Jaunā VIENOTĪBA,1,11,5,16354,19956,8362,7439,24177
+Zemgale,3. Zaļo un Zemnieku savienība,3,10,6,23966,10079,11019,6258,25207
+Zemgale,"8. Politiskā partija ""Stabilitātei!""",8,4,4,3176,426,3249,463,3897
+Zemgale,"11. Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK""",11,15,1,19800,14563,807,744,15682
+Zemgale,12. LATVIJA PIRMAJĀ VIETĀ,12,12,4,6800,3556,1374,1262,5876
+Zemgale,"15. ""PROGRESĪVIE""",15,9,7,3624,1587,3047,1270,5608
+Zemgale,"18. ""APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija""",18,10,6,14432,9596,5992,5441,16018
