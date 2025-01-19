@@ -8,7 +8,9 @@ library(brant)        # For the Brant test
 library(psych)
 library(ggplot2)
 
-setwd("/Users/kapsitis/workspace-public/bak-makro/stat")
+setwd("/Users/kalvi/workspace-public/bak-makro/stat")
+
+#setwd("/Users/kapsitis/workspace-public/bak-makro/stat")
 # setwd("/home/anna/Documents/bak-makro/stat")
 # Read the CSV file into a data frame
 df <- read.csv("Survey-Clean.08.csv")  # Replace with your actual file path
@@ -20,7 +22,7 @@ df$Bias_Traits <- factor(df$Bias_Traits, levels = c(1, 2, 3, 4, 5), ordered = TR
 df$Bias_Interventions <- factor(df$Bias_Interventions, levels = c(1, 2, 3, 4, 5), ordered = TRUE)
 df$Bias_Competence <- factor(df$Bias_Competence, levels = c(1, 2, 3, 4, 5), ordered = TRUE)
 
-#df$Gender <- factor(df$Gender)
+# df$Gender <- factor(df$Gender)
 # df$Gender <- factor(df$Gender, levels=c(1,2), ordered=TRUE)
 # df$Residence <- factor(df$Residence)
 
@@ -51,6 +53,12 @@ brant_test <- brant(ordered_model)
 print(brant_test)
 # < 0.05 for Gender (0.0013) and Female_Bosses (0.0377)
 print("\n\n")
+
+
+
+df$Bias_Family <- ifelse(df$Bias_Family %in% c(3, 4, 5), 3, df$Bias_Family)
+df$Bias_Family <- factor(df$Bias_Family, levels = c(1, 2, 3), ordered = TRUE)
+
 
 print("This is Bias_Family")
 # Ordered Logistic Regression using the polr (proportional odds logistic regression) in MASS package
