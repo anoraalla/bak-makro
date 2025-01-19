@@ -9,6 +9,14 @@ gdf = gpd.read_file(shapefile_path)
 np.random.seed(42)  # For reproducible results
 gdf['random_value'] = np.random.uniform(-2, 2, len(gdf))
 
+
+# Assign a specific value to the region with LABEL "Līvānu nov."
+gdf.loc[gdf['LABEL'] == 'Līvānu nov.', 'random_value'] = -2
+
+# Optional: Check the assignment
+print(gdf[['LABEL', 'random_value']].head())
+
+
 fig, ax = plt.subplots(1, 1, figsize=(10, 6))
 
 # Create the map
