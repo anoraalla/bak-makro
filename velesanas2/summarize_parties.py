@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 import sys
 
 
@@ -143,6 +144,7 @@ def summarize_party_data(data, district_name):
 
 
 def plot_party_districts(data, party_number):
+    plt.rcParams['font.family'] = 'Times New Roman'
     # Filter the data for the given PartyNumber
     filtered_data = data[data['PartyNumber'] == party_number]
     
@@ -164,26 +166,53 @@ def plot_party_districts(data, party_number):
     # Define pastel colors for the districts
     pastel_colors = ['lightcoral', 'lightblue', 'lightgreen', 'khaki', 'mediumaquamarine', 'thistle', 'lavender']
     
+
+    num_bars = len(districts)
+    bar_height = 0.5  # Each bar should be 0.25 inches tall
+    space_between_bars = 0.2  # Each space should be 0.375 inches
+    total_height_in_inches = num_bars * (bar_height + space_between_bars)
+
     # Set up the subplots
-    fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(14, 6), sharey=True)
-    
+    fig, axes = plt.subplots(nrows=1, ncols=1, figsize=(10, total_height_in_inches), sharey=True)
+
+    short_names = {1:'Vienotība', 3:'ZZS', 8:'Stabilitātei!', 11: 'NA', 12:'LPV', 15:'Progresīvie', 18: 'AS'}
+
     # Plot the first expression as a horizontal bar chart
-    axes[0].barh(districts, expression_1_values, color=pastel_colors[:len(districts)], edgecolor='black', height=0.8)
-    axes[0].set_title('Average Male-Female Support')
-    axes[0].set_xlabel('Value')
-    axes[0].set_ylabel('District')
+    axes.barh(districts, expression_1_values, 
+              # color=pastel_colors[:len(districts)],
+              color = '#9BBB59',
+              edgecolor='black', height=bar_height)
+    axes.set_title(f'Male-Female Candiate Support Difference for Party {short_names[party_number]}',
+                   fontname='Times New Roman', fontsize=14, fontweight='bold')
+    axes.set_xlabel('Support for an Average Male Minus Support for an Average Female',
+                    fontname='Times New Roman', fontsize=12, fontweight='normal')
+    axes.set_ylabel('Electoral District', 
+                    fontname='Times New Roman', fontsize=12, fontweight='normal')
     
     # Plot the second expression as a horizontal bar chart
-    axes[1].barh(districts, expression_2_values, color=pastel_colors[:len(districts)], edgecolor='black', height=0.8)
-    axes[1].set_title('Average FemaleMinuses-MaleMinuses')
-    axes[1].set_xlabel('Value')
+    # axes[1].barh(districts, expression_2_values, color=pastel_colors[:len(districts)], edgecolor='black', height=0.8)
+    # axes[1].set_title('Average FemaleMinuses-MaleMinuses')
+    # axes[1].set_xlabel('Value')
+
+
+    # Set custom font size for tick labels
+    axes.xaxis.set_tick_params(labelsize=10)  # 10pt font for x-axis tick labels
+    axes.yaxis.set_tick_params(labelsize=12)  # 12pt font for y-axis tick labels
+
+
+    # Set major and minor ticks
+    axes.xaxis.set_major_locator(ticker.MultipleLocator(0.01))
+    axes.xaxis.set_minor_locator(ticker.MultipleLocator(0.002))
+
+    # Enable grid
+    axes.grid(True, which='major', linestyle='--', linewidth=1.0)
+    axes.grid(True, which='minor', linestyle='--', linewidth=0.5)
+
+    axes.set_xlim(-0.046, 0.052)
     
     # Adjust the layout to prevent overlap
     plt.tight_layout()
-    
-    
-    short_names = {1:'Vienotība', 3:'ZZS', 8:'Stabilitātei!', 11: 'NA', 12:'LPV', 15:'Progresīvie', 18: 'AS'}
-    
+        
     plt.savefig(f'chart_{short_names[party_number]}.png')
     
     # Display the plots
